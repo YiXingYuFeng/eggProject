@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+<!-- 引入样式 -->
+<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+<!-- 引入组件库 -->
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<body>
+    <div id="app">
+        <input type="file" @change="fileChange">
+        <el-button type="primary">上传</el-button>
+    </div>
+</body>
+<script>
+    const app = new Vue({
+      el: '#app',
+      data() {
+        return {
+          size: 1*1024*1024,  // 切片大小
+          fileChunkList: [], // 文件切片 list
+        }
+      },
+      methods: {
+        // 文件变化
+        fileChange(e) {
+          const { files } = e.target
+          const { size, name, type} = files[0]
+          console.info('当前文件', files);
+          console.info('当前文件', size, name, type);
+          // 文件切片 切片后的文件存储
+          this.fileChunkList =  this.createFileChunk(files[0], this.size);
+          console.info(this.fileChunkList);
+        },
+        // 生成文件切片
+        createFileChunk(file, size) {
+          let fileChunkList = []; // 文件切片list
+          let curSize = 0; // 切片后文件大小
+          let index = 0;
+          while(curSize < file.size) {
+            console.info(' 生成文件切片', file);
+            fileChunkList.push({
+              file: file.slice(curSize, curSize + size),
+              hash: `${file.name}&${index}`
+            })
+            curSize += size
+            index ++
+          }
+          return fileChunkList
+        },
+        // 上传切片
+        async uploadFileChunk() {
+          let request = this.fileChunkList
+        },
+        // 请求
+        request(url, method, data, header={}, requestList) {
+          return new Promise(resolve => {
+            const xhr = new XMLHttpRequest();
+            xhr.open(method,url);
+            Object.keys(header).forEach(key =>{
+              xhr.setRequestHeader(key, header[key])
+            })
+            xhr.send(data)
+            xhr.onload= e => {
+              resolve({
+                data: e.target.response
+              })
+            }
+          })
+        }
+      }
+    })
+</script>
+</html>
