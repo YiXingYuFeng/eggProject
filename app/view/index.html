@@ -12,7 +12,20 @@
 <body>
     <div id="app">
         <input type="file" @change="fileChange">
-        <el-button type="primary">上传</el-button>
+        <el-button type="primary" @click="uploadFileChunk">上传</el-button>
+        <!--  非切片方式上传  测试使用上传组件直接上传     -->
+        <hr>
+        <div>
+            <el-upload
+                    class="upload-demo"
+                    action="/upload/file"
+                    multiple
+                    :limit="3"
+                    :file-list="fileList">
+                <el-button size="small" type="primary">点击上传</el-button>
+                <div slot="tip" class="el-upload__tip">只能上传jpg/png文件，且不超过500kb</div>
+            </el-upload>
+        </div>
     </div>
 </body>
 <script>
@@ -22,6 +35,8 @@
         return {
           size: 1*1024*1024,  // 切片大小
           fileChunkList: [], // 文件切片 list
+          fileList: [],
+          file: {} // 当前上传文件的相关信息
         }
       },
       methods: {
@@ -31,20 +46,29 @@
           const { size, name, type} = files[0]
           console.info('当前文件', files);
           console.info('当前文件', size, name, type);
+          this.file = {
+            name: name,
+            size: size,
+            type: type,
+            value: files[0]
+          }
           // 文件切片 切片后的文件存储
-          this.fileChunkList =  this.createFileChunk(files[0], this.size);
-          console.info(this.fileChunkList);
+          let fileData =  this.createFileChunk(files[0], this.size);
+          this.fileChunkList = fileData.map(({file}, index) => ({
+            chunk: file,
+            name: name + '-' + index
+          }))
+          console.info('文件切片后的数据', this.fileChunkList);
         },
         // 生成文件切片
         createFileChunk(file, size) {
           let fileChunkList = []; // 文件切片list
           let curSize = 0; // 切片后文件大小
           let index = 0;
+          console.info(' 生成文件切片', file);
           while(curSize < file.size) {
-            console.info(' 生成文件切片', file);
             fileChunkList.push({
               file: file.slice(curSize, curSize + size),
-              hash: `${file.name}&${index}`
             })
             curSize += size
             index ++
@@ -53,7 +77,25 @@
         },
         // 上传切片
         async uploadFileChunk() {
-          let request = this.fileChunkList
+          let _this = this
+          let requestList = _this.fileChunkList.map((file, hash, name) => {
+            let formData = new FormData();
+            formData.append('chunk', file);
+            formData.append('hash', hash);
+            formData.append('fileName', name);
+            return { formData };
+          })
+          .map(async ({formData}) => {
+            _this.request('/upload','post', formData)
+          })
+          // 等待所有的切片上传完成
+          await Promise.all(requestList)
+        },
+        // 文件不切片 直接上传
+        uploadFile(files) {
+            const formData = new FormData();
+            formData.append('file', files)
+            this.request('/upload', 'post',formData)
         },
         // 请求
         request(url, method, data, header={}, requestList) {
