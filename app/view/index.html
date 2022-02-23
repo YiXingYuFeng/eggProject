@@ -78,18 +78,18 @@
         // 上传切片
         async uploadFileChunk() {
           let _this = this
-          let requestList = _this.fileChunkList.map((file, hash, name) => {
+          let requestList = _this.fileChunkList.map(({chunk, hash}) => {
             let formData = new FormData();
-            formData.append('chunk', file);
+            formData.append('chunk', chunk);
             formData.append('hash', hash);
-            formData.append('fileName', name);
+            formData.append('fileName', _this.file.name);
             return { formData };
           })
           .map(async ({formData}) => {
             _this.request('/upload','post', formData)
           })
           // 等待所有的切片上传完成
-          await Promise.all(requestList)
+          // await Promise.all(requestList)
         },
         // 文件不切片 直接上传
         uploadFile(files) {

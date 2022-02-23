@@ -11,10 +11,15 @@ class UploadController extends Controller {
     multipart.parse(ctx.req, async (err, fields, files) => {
       if (err) { return; }
       // const { originalFilename } = files.file[0];
-      console.info(files);
+      // console.info(files);
+      const [ chunk ] = files.chunk;
+      const [ hash ] = fields.hash;
+      const [ filename ] = fields.filename;
+      const chunkDir = path.resolve(uploadDir, filename);
       // const filePath = files.file[0].path;
       // const chunkDir = path.resolve(uploadDir, originalFilename);
-      // await fse.move(filePath, `${chunkDir}/${originalFilename}`);
+      await fse.move(chunk.path, `${chunkDir}/${hash}`);
+      // https://juejin.cn/post/6844904046436843527
     });
     ctx.body = '200';
   }
