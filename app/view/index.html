@@ -10,7 +10,7 @@
 <!-- 引入组件库 -->
 <script src="https://unpkg.com/element-ui/lib/index.js"></script>
 <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
-<script src="spark-md5.min.js"></script>
+<script src="./spark-md5.min.js"></script>
 <body>
     <div id="app">
         <input type="file" @change="fileChange">
@@ -133,8 +133,8 @@
           })
         },
         // 获取当前文件的hash值
-        getFileHash() {
-         let hash =  this.createFileHash();
+       async getFileHash() {
+         let hash = await this.createFileHash();
           console.info('获取当前文件的hash值', hash);
         },
         // 生成文件hash
@@ -145,6 +145,21 @@
            *  这里使用的了web-worker在worker线程计算hash,保证用户的正常交互
            */
           return new Promise(resolve => {
+            let count = 0
+            let spark = new SparkMD5.ArrayBuffer()
+            let _this = this
+            _this.fileChunkList.map((chunk, hash) => {
+              let fileReader = new FileReader();
+              fileReader.readAsArrayBuffer(chunk);
+              fileReader.onload = function(e) {
+                count ++;
+                if(count === _this.fileChunkList.length) {
+                  resolve(spark.end())
+                }
+              }
+
+            })
+
             // let worker = new Worker('./hash.js');
             // worker.postMessage( this.fileChunkList)
             // worker.onmessage = e => {
