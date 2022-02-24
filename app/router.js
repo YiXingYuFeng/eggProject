@@ -11,4 +11,8 @@ module.exports = app => {
   // 上传接口的路由
   router.post('/upload', controller.upload.index);
   router.post('/upload/file', controller.upload.uploadFile);
+  // 合并文件
+  router.get('/upload/merge', controller.upload.mergeFile);
+  // 测试文件读写
+  router.get('/read/file', controller.upload.fileRead);
 };
