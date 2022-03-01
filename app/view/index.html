@@ -136,6 +136,7 @@
        async getFileHash() {
          let hash = await this.createFileHash();
           console.info('获取当前文件的hash值', hash);
+          this.file['hash'] = hash
         },
         // 生成文件hash
         createFileHash() {
