@@ -8,6 +8,9 @@ module.exports = app => {
   // 页面级路由
   router.get('/home', controller.home.home);
   router.get('/', controller.home.home);
+
+  // 测试mock
+  router.get('/mock',controller.mock.index);
   // 上传接口的路由
   router.post('/upload', controller.upload.index);
   router.post('/upload/file', controller.upload.uploadFile);
@@ -15,4 +18,9 @@ module.exports = app => {
   router.get('/upload/merge', controller.upload.mergeFile);
   // 测试文件读写
   router.get('/read/file', controller.upload.fileRead);
+  router.get('/excel', controller.excelFile.index);
+  // 解析excel
+  router.get('/read/excel', controller.excelFile.readFile);
+  // 爬虫
+  router.get('/crawling', controller.crawling.index);
 };

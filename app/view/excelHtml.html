@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<!--<script src="https://cdn.jsdelivr.net/npm/vue@2.6.14"></script>-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/vue/2.6.14/vue.common.dev.min.js" integrity="sha512-TpgbLHXaTCAZ7ULhjopb1PveTz5Jx6KEQUtMfXhV0m0EArh+6O8ybZjjDN1Yug6oagN6iFm6EoMjuYSiFr0qXQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<!-- 引入样式 -->
+<link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+<!-- 引入组件库 -->
+<script src="https://unpkg.com/element-ui/lib/index.js"></script>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<body>
+   <div id="app">
+       <el-button type="primary" @click="readExcelFile">解析库中文件</el-button>
+   </div>
+</body>
+<script>
+   new Vue({
+      el: '#app',
+      data() {
+        return {
+
+        }
+      },
+      methods: {
+        readExcelFile() {
+          console.info('解析库中文件');
+          axios.get('/read/excel')
+        }
+      }
+    })
+</script>
+</html>
