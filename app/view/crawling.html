@@ -3,8 +3,38 @@
 <head>
     <meta charset="UTF-8">
     <title>crawling</title>
+    <!-- 引入样式 -->
+    <link rel="stylesheet" href="https://unpkg.com/element-ui/lib/theme-chalk/index.css">
+    <!-- 引入组件库 -->
+    <script src="https://unpkg.com/element-ui/lib/index.js"></script>
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
 </head>
+<script crossorigin="anonymous" integrity="sha512-hq8miiXYu6SQOoIXVqzfSwiWFx/2IGhzfywIbP7Fkh5YU2EWR/7swYoGMXyqfjsP+Y/2urnmozKbSypZbQWAug==" src="https://lib.baomitu.com/vue/2.7.0-alpha.4/vue.common.dev.min.js"></script>
 <body>
-    this is crawling
+    <div id="app">{{a}}</div>
 </body>
+<script >
+    var app = new Vue({
+      el: '#app',
+      data() {
+        return {
+          a: 1
+        }
+      },
+      mounted() {
+        this.login()
+      },
+      methods: {
+        login() {
+          axios.get('https://www.pexels.com/zh-cn/')
+          .then(res => {
+            console.info(res);
+          })
+          .catch(err => {
+            console.info(err);
+          })
+        }
+      }
+    })
+</script>
 </html>

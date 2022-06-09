@@ -25,10 +25,22 @@ module.exports = appInfo => {
       '.html': 'ejs',
     },
   };
+  // 跨域设置
   config.security = {
     csrf: {
       enable: false,
+      // ignore: ctx => {
+      //   if (ctx.request.url === `/${config.adminPath}/product/doUpload`) {
+      //     return true;
+      //   }
+      // },
     },
+    domainWhiteList: [ '*' ],
+  };
+  config.cors = {
+    credentials: true,
+    origin: '*',
+    allowMethods: 'GET,PUT,POST,DELETE',
   };
   // add your user config here
   const userConfig = {
