@@ -10,7 +10,7 @@ module.exports = app => {
   router.get('/', controller.home.home);
 
   // 测试mock
-  router.get('/mock',controller.mock.index);
+  router.get('/mock', controller.mock.index);
   // 上传接口的路由
   router.post('/upload', controller.upload.index);
   router.post('/upload/file', controller.upload.uploadFile);
@@ -21,6 +21,7 @@ module.exports = app => {
   router.get('/excel', controller.excelFile.index);
   // 解析excel
   router.get('/read/excel', controller.excelFile.readFile);
+  router.get('/read/excel1', controller.excelFile.createJson);
   // 爬虫
   router.get('/crawling', controller.crawling.index);
   // 生成目标json

@@ -1,0 +1,4295 @@
+[
+	{
+		"name": "7-Eleven Food Store",
+		"address": "崇信街8号附近",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "观塘区"
+	},
+	{
+		"name": "家乐福",
+		"address": "市场街靠近中子中心医院",
+		"telephone": 18181059969,
+		"provincename": "四川省",
+		"cityname": "广元市",
+		"districtname": "朝天区",
+		"township_name": "中子镇"
+	},
+	{
+		"name": "华润万家(世贸中心店)",
+		"address": "龙翔大道8014号世贸中心F1",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙城街道"
+	},
+	{
+		"name": "华润万家(长安路店)",
+		"address": "长安南路435号欧风商务1层",
+		"telephone": "029-85360366",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "雁塔区",
+		"township_name": "长延堡街道"
+	},
+	{
+		"name": "华联超市(尚景国际店)",
+		"address": "祥符街道天阳尚景国际永固巷335号",
+		"telephone": 15355416571,
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "拱墅区",
+		"township_name": "祥符街道"
+	},
+	{
+		"name": "7-ELEVEn(开发区万行店)",
+		"address": "烟台开发区万行广场113号商铺",
+		"telephone": 15668037315,
+		"provincename": "山东省",
+		"cityname": "烟台市",
+		"districtname": "福山区",
+		"township_name": "福莱山街道办事处（烟台开发区）"
+	},
+	{
+		"name": "7-ELEVEn(南城广场店)",
+		"address": "布吉白鸽路268号南城购物广场",
+		"telephone": "18975458231;0755-84706753",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "布吉街道"
+	},
+	{
+		"name": "百佳超市(白云店)",
+		"address": "艳山红镇白云南路(老艳山红腾发地产对面)",
+		"provincename": "贵州省",
+		"cityname": "贵阳市",
+		"districtname": "白云区",
+		"township_name": "艳山红镇"
+	},
+	{
+		"name": "华润万家(辽阳荣华店)",
+		"address": "荣华街9号",
+		"telephone": "0419-5375307;0419-5375888",
+		"provincename": "辽宁省",
+		"cityname": "辽阳市",
+		"districtname": "宏伟区",
+		"township_name": "光华街道"
+	},
+	{
+		"name": "7-ELEVEn(大悦城店)",
+		"address": "南门外大街2-6号南开大悦城北区B1层",
+		"telephone": 18202282217,
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "南开区",
+		"township_name": "兴南街道"
+	},
+	{
+		"name": "上海华联超市(紫竹店)",
+		"address": "紫竹路33号(近惠兴南路)",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "宜兴市",
+		"township_name": "宜城街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "建设街与201县道交叉口西南50米",
+		"telephone": "0319-7216846",
+		"provincename": "河北省",
+		"cityname": "邢台市",
+		"districtname": "广宗县",
+		"township_name": "广宗镇"
+	},
+	{
+		"name": "麦德龙(包河商场店)",
+		"address": "庐州大道90号",
+		"telephone": "0551-63478888;0551-63478886;0551-63478846",
+		"provincename": "安徽省",
+		"cityname": "合肥市",
+		"districtname": "包河区",
+		"township_name": "常青街道"
+	},
+	{
+		"name": "7-ELEVEn(祈福万景峰店)",
+		"address": "新街大道祈福万景峰",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "花都区",
+		"township_name": "新华街道"
+	},
+	{
+		"name": "上海华联超市(南通农场店)",
+		"address": "南通开发区南通农场江海镇江海路",
+		"telephone": 13806294932,
+		"provincename": "江苏省",
+		"cityname": "南通市",
+		"districtname": "崇川区",
+		"township_name": "江海镇区"
+	},
+	{
+		"name": "7-ELEVEn(潭村大街店)",
+		"address": "潭村大街珠光·新城御景-2期西北侧约90米",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "冼村街道"
+	},
+	{
+		"name": "华润万家(星河传奇分店)",
+		"address": "民治街道龙塘社区星河传奇花园三期商厦149-153号商铺",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙华区",
+		"township_name": "龙华街道"
+	},
+	{
+		"name": "7-ELEVEn(养鱼池路店)",
+		"address": "满园里1号楼底商(润园里)",
+		"telephone": "022-26422608",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河北区",
+		"township_name": "宁园街道"
+	},
+	{
+		"name": "华润万家(仁恒国际店)",
+		"address": "和政东街189号",
+		"telephone": "0931-8793728",
+		"provincename": "甘肃省",
+		"cityname": "兰州市",
+		"districtname": "城关区",
+		"township_name": "铁路东村街道"
+	},
+	{
+		"name": "乐购",
+		"address": "祥光路271号",
+		"telephone": 18346707758,
+		"provincename": "黑龙江省",
+		"cityname": "鸡西市",
+		"districtname": "鸡冠区",
+		"township_name": "红军路街道"
+	},
+	{
+		"name": "7-ELEVEn(TCL国际酒店店)",
+		"address": "惠风三路17号TCL科技大厦2号楼1层03号",
+		"telephone": 18026492238,
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠城区",
+		"township_name": "惠环街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "304省道土基药店旁",
+		"provincename": "陕西省",
+		"cityname": "延安市",
+		"districtname": "洛川县",
+		"township_name": "土基镇"
+	},
+	{
+		"name": "华润万家(翠前北路店)",
+		"address": "翠前北路248号",
+		"telephone": "0756-8982616",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "梅华街道"
+	},
+	{
+		"name": "家乐福(陵南街店)",
+		"address": "南麻镇陵南街1号",
+		"provincename": "山东省",
+		"cityname": "淄博市",
+		"districtname": "沂源县",
+		"township_name": "历山街道"
+	},
+	{
+		"name": "上海家乐福超市",
+		"address": "海新路西50米",
+		"telephone": "0512-58622614;18013617676",
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "张家港市",
+		"township_name": "南丰镇"
+	},
+	{
+		"name": "7-ELEVEn(榴苑路店)",
+		"address": "榴苑路5号首层5号铺",
+		"telephone": "4006308711;0757-82722870",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "禅城区",
+		"township_name": "石湾镇街道"
+	},
+	{
+		"name": "沃尔玛(航天大道店)",
+		"address": "航天大道二段世纪Mall大厦2-3层",
+		"telephone": "0834-2899036;0834-2899037",
+		"provincename": "四川省",
+		"cityname": "凉山彝族自治州",
+		"districtname": "西昌市",
+		"township_name": "西郊乡"
+	},
+	{
+		"name": "华润万家(红山路店)",
+		"address": "红山路26号阳光大厦1层",
+		"telephone": "0756-2528996;4008222669",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "梅华街道"
+	},
+	{
+		"name": "7-ELEVEn(雅礼中学店)",
+		"address": "劳动西路瑞龙阁106号",
+		"telephone": "0731-85115837",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "雨花区",
+		"township_name": "东塘街道"
+	},
+	{
+		"name": "7-ELEVEn(西高智能大厦店)",
+		"address": "高新三路8号西高智能大厦1幢10103-1号房",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "雁塔区",
+		"township_name": "电子城街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "永和路胜利孤岛第二小学西侧约40米",
+		"telephone": "0546-3697685",
+		"provincename": "山东省",
+		"cityname": "东营市",
+		"districtname": "河口区",
+		"township_name": "孤岛镇"
+	},
+	{
+		"name": "华联超市(重庆北店)",
+		"address": "重庆北路208号",
+		"telephone": "021-63276057",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "黄浦区",
+		"township_name": "南京东路街道"
+	},
+	{
+		"name": "水果蔬菜超市",
+		"address": "水木天城沿街房水果蔬菜超市",
+		"provincename": "山东省",
+		"cityname": "滨州市",
+		"districtname": "沾化区",
+		"township_name": "富国街道"
+	},
+	{
+		"name": "华润万家(鹏欣丽都购物中心)",
+		"address": "鼓楼北路鹏欣丽都商业楼一层",
+		"provincename": "江苏省",
+		"cityname": "泰州市",
+		"districtname": "海陵区",
+		"township_name": "城北街道"
+	},
+	{
+		"name": "华联超市(雅翔路店)",
+		"address": "南翔镇宝翔路998弄上隽嘉苑",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "嘉定区",
+		"township_name": "南翔镇"
+	},
+	{
+		"name": "华润万家(息县第八小学店)",
+		"address": "香米贡大道(息县第八小学南侧约100米)",
+		"provincename": "河南省",
+		"cityname": "信阳市",
+		"districtname": "息县",
+		"township_name": "淮河街道"
+	},
+	{
+		"name": "华联超市(崇明供销大新店)",
+		"address": "新镇前竖公路816号",
+		"telephone": "021-59491794",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "崇明区",
+		"township_name": "竖新镇"
+	},
+	{
+		"name": "7-ELEVEn(平山道店)",
+		"address": "平山道25-9号",
+		"telephone": "022-23512646;18622366301",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河西区",
+		"township_name": "马场街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "河姆渡西路与河姆渡北路交叉口西北约60米",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "余姚市",
+		"township_name": "河姆渡镇"
+	},
+	{
+		"name": "幸福盛世惠康超市",
+		"address": "洞子口古柏粮油市场对面土柏路499号13栋",
+		"telephone": "028-83420074",
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "郫都区",
+		"township_name": "安靖镇"
+	},
+	{
+		"name": "7-ELEVEn(儿童医院店)",
+		"address": "人民中路310号1层",
+		"telephone": "020-81088364;020-83647543",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "越秀区",
+		"township_name": "龙津街道"
+	},
+	{
+		"name": "7-ELEVEn(华翠南路店)",
+		"address": "桂城街道华翠南路6号南海颐景园商业广场",
+		"telephone": "0757-81018392",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "桂城街道"
+	},
+	{
+		"name": "7-ELEVEn(林业大学北路店)",
+		"address": "林大北路18号院文成杰座C座底商",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "海淀区",
+		"township_name": "学院路街道"
+	},
+	{
+		"name": "沃尔玛(施湾店)",
+		"address": "祝桥镇施镇路256弄1号",
+		"telephone": "021-50963878",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "浦东新区",
+		"township_name": "祝桥镇"
+	},
+	{
+		"name": "沃尔玛(人民东路店)",
+		"address": "人民东路29号香港财富广场B1层",
+		"telephone": "0558-2689528;0558-2689565",
+		"provincename": "安徽省",
+		"cityname": "阜阳市",
+		"districtname": "颍泉区",
+		"township_name": "中市街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "布吉路富基帕克大厦106-107",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "滨江街道"
+	},
+	{
+		"name": "7-ELEVEn(凯宾商业广场店)",
+		"address": "韶山中路419号凯宾商业广场114号",
+		"telephone": "0731-85513296",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "雨花区",
+		"township_name": "砂子塘街道"
+	},
+	{
+		"name": "华润万家便利超市",
+		"address": "永宁村大话南门5号楼1层1-08号",
+		"telephone": "029-81541675",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "碑林区",
+		"township_name": "长安路街道"
+	},
+	{
+		"name": "7-ELEVEn(711便利店)",
+		"address": "新华镇建设北路78号首层78-178-2商铺",
+		"telephone": "020-39479312",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "花都区",
+		"township_name": "新华街道"
+	},
+	{
+		"name": "7-ELEVEn(江湾广场店)",
+		"address": "翠波道富力津门湖江湾广场8号楼底商105号",
+		"telephone": "022-88389871",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "西青区",
+		"township_name": "李七庄街道"
+	},
+	{
+		"name": "崇义家乐福超市",
+		"address": "上团城乡崇义三街",
+		"telephone": 15383700026,
+		"provincename": "河北省",
+		"cityname": "邯郸市",
+		"districtname": "武安市",
+		"township_name": "上团城乡"
+	},
+	{
+		"name": "华润万家(铜陵北路店)",
+		"address": "铜陵北路与扶疏路交叉口家天下生活广B1层",
+		"telephone": 4001812345,
+		"provincename": "安徽省",
+		"cityname": "合肥市",
+		"districtname": "瑶海区",
+		"township_name": "七里塘街道"
+	},
+	{
+		"name": "家润福购物广场",
+		"address": "新华镇清布市场19队",
+		"telephone": "020-86837028",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "花都区",
+		"township_name": "新雅街道"
+	},
+	{
+		"name": "华润万家(街口里路店)",
+		"address": "县府西路3号",
+		"telephone": "0794-7835370",
+		"provincename": "江西省",
+		"cityname": "抚州市",
+		"districtname": "崇仁县",
+		"township_name": "巴山镇"
+	},
+	{
+		"name": "华润万家(鸿威鸿景华庭北区西北)",
+		"address": "五联社区朱古石路88号鸿威的森林",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙岗街道"
+	},
+	{
+		"name": "华联超市(新市北路店)",
+		"address": "新市北路1386号",
+		"telephone": "021-65610449",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "虹口区",
+		"township_name": "江湾镇街道"
+	},
+	{
+		"name": "华润万家(凯德和平广场店)",
+		"address": "高尔基路695号凯德和平广场F1",
+		"telephone": "0411-39715588",
+		"provincename": "辽宁省",
+		"cityname": "大连市",
+		"districtname": "沙河口区",
+		"township_name": "星海湾街道"
+	},
+	{
+		"name": "华润万家(官湖镇西坊上社区卫生服务站东南)",
+		"address": "官湖镇西坊村256号",
+		"provincename": "江苏省",
+		"cityname": "徐州市",
+		"districtname": "邳州市",
+		"township_name": "官湖镇"
+	},
+	{
+		"name": "家乐福广场",
+		"address": "梨园九棵树地铁站",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "通州区",
+		"township_name": "梨园地区办事处"
+	},
+	{
+		"name": "7-ELEVEn(万科星城店)",
+		"address": "新桥街道万科星城名邸1栋103",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "宝安区",
+		"township_name": "新桥街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "316省道南50米",
+		"telephone": "15075009279;13733204078",
+		"provincename": "河北省",
+		"cityname": "邯郸市",
+		"districtname": "临漳县",
+		"township_name": "南东坊镇"
+	},
+	{
+		"name": "7-ELEVEn(中北镇万源路店)",
+		"address": "中北镇万源路花溪苑公建-1",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "西青区",
+		"township_name": "中北镇"
+	},
+	{
+		"name": "百佳超市(进香河路店)",
+		"address": "珠江路与进香河路交叉口北行100米",
+		"telephone": "025-52640037",
+		"provincename": "江苏省",
+		"cityname": "南京市",
+		"districtname": "玄武区",
+		"township_name": "新街口街道"
+	},
+	{
+		"name": "莎莎家居(万盛家纺)",
+		"address": "永丰路0099号",
+		"telephone": 13657751212,
+		"provincename": "广西壮族自治区",
+		"cityname": "玉林市",
+		"districtname": "北流市",
+		"township_name": "北流镇"
+	},
+	{
+		"name": "华润万家(建筑路店)",
+		"address": "建筑路666-670号",
+		"telephone": "4008222666;18914109022",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "滨湖区",
+		"township_name": "河埒街道"
+	},
+	{
+		"name": "上海华联超市(西环路店)",
+		"address": "西环路花苑新村东门附近",
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "昆山市",
+		"township_name": "花桥镇"
+	},
+	{
+		"name": "7-ELEVEn(江北店)",
+		"address": "大闸路北岸琴森财富中心星街坊93号",
+		"telephone": "0574-87430394",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "江北区",
+		"township_name": "文教街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "吴通线与平安大道交叉口西南100米",
+		"provincename": "河南省",
+		"cityname": "新乡市",
+		"districtname": "延津县",
+		"township_name": "石婆固乡"
+	},
+	{
+		"name": "7-ELEVEn(龙珠路店)",
+		"address": "龙珠路35号A楼105号",
+		"telephone": 13808821381,
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "花都区",
+		"township_name": "新华街道"
+	},
+	{
+		"name": "百佳超市(泰山北路店)",
+		"address": "圣马可购物广场A11南131-132号",
+		"provincename": "江苏省",
+		"cityname": "宿迁市",
+		"districtname": "泗洪县",
+		"township_name": "青阳镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "321省道北50米",
+		"telephone": "0319-2816677",
+		"provincename": "河北省",
+		"cityname": "邢台市",
+		"districtname": "信都区",
+		"township_name": "皇寺镇"
+	},
+	{
+		"name": "7-ELEVEn(北花园中路店)",
+		"address": "北花园中路1号院9号楼1层102-2",
+		"telephone": 13910885877,
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "高碑店地区办事处"
+	},
+	{
+		"name": "bhg-生活超市(呼市金厦店)",
+		"address": "金海路北侧金厦广场地下一层",
+		"telephone": 15124731017,
+		"provincename": "内蒙古自治区",
+		"cityname": "呼和浩特市",
+		"districtname": "土默特左旗",
+		"township_name": "呼和浩特经济技术开发区金川区"
+	},
+	{
+		"name": "麦德龙(兴庆商场店)",
+		"address": "丽景北街1号中国银川国际商贸城内",
+		"telephone": "0951-6748888",
+		"provincename": "宁夏回族自治区",
+		"cityname": "银川市",
+		"districtname": "兴庆区",
+		"township_name": "丽景街街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "台头镇彭家道口汽车站路北",
+		"telephone": "0536-2154391",
+		"provincename": "山东省",
+		"cityname": "潍坊市",
+		"districtname": "寿光市",
+		"township_name": "台头镇"
+	},
+	{
+		"name": "上海华联超市(恒大店)",
+		"address": "恒大城市广场3层",
+		"telephone": "0376-8139251",
+		"provincename": "河南省",
+		"cityname": "信阳市",
+		"districtname": "平桥区",
+		"township_name": "龙飞山办事处"
+	},
+	{
+		"name": "华联超市",
+		"address": "陈圩街(陈圩医院东北)",
+		"provincename": "江苏省",
+		"cityname": "宿迁市",
+		"districtname": "宿城区",
+		"township_name": "郑楼镇"
+	},
+	{
+		"name": "华联全日鲜",
+		"address": "辅岩路14号",
+		"telephone": "0372-5895688",
+		"provincename": "河南省",
+		"cityname": "安阳市",
+		"districtname": "安阳县",
+		"township_name": "水冶镇"
+	},
+	{
+		"name": "7-ELEVEn(岳王路店)",
+		"address": "岳王路34号",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "上城区",
+		"township_name": "湖滨街道"
+	},
+	{
+		"name": "华联超市(罗南店)",
+		"address": "罗店镇罗南二村112号",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "宝山区",
+		"township_name": "罗店镇"
+	},
+	{
+		"name": "百佳超市(汉西路店)",
+		"address": "汉西北路发展一村汉西花园197号",
+		"provincename": "湖北省",
+		"cityname": "武汉市",
+		"districtname": "江汉区",
+		"township_name": "宗关街道"
+	},
+	{
+		"name": "7-ELEVEn(兴泰路店)",
+		"address": "石碁兴镇泰东路傍江西村段36、38号",
+		"telephone": "020-39920439",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "大龙街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "四经路与海河东路交叉路口东侧(茂业大厦)",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河北区",
+		"township_name": "光复道街道"
+	},
+	{
+		"name": "7-ELEVEn(解放南路店)",
+		"address": "解放南路141号1层",
+		"telephone": "0574-87103193",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "海曙区",
+		"township_name": "月湖街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "新店街米场对面",
+		"provincename": "江苏省",
+		"cityname": "徐州市",
+		"districtname": "新沂市",
+		"township_name": "新店镇"
+	},
+	{
+		"name": "华联超市(二店)",
+		"address": "团结路27号(一壶茶行隔壁)",
+		"telephone": "18755592330;0555-2489104",
+		"provincename": "安徽省",
+		"cityname": "马鞍山市",
+		"districtname": "花山区",
+		"township_name": "沙塘路街道"
+	},
+	{
+		"name": "7-ELEVEn(永胜店)",
+		"address": "东山区大沙头永胜上沙路52号之一之二",
+		"telephone": "020-83794642",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "越秀区",
+		"township_name": "白云街道"
+	},
+	{
+		"name": "家乐福(文化路店)",
+		"address": "文化路81号一方广场F1层",
+		"telephone": "024-23955200;024-23955009",
+		"provincename": "辽宁省",
+		"cityname": "沈阳市",
+		"districtname": "沈河区",
+		"township_name": "五里河街道"
+	},
+	{
+		"name": "乐购",
+		"address": "020县道(练集镇人民政府)",
+		"provincename": "河南省",
+		"cityname": "周口市",
+		"districtname": "商水县",
+		"township_name": "练集镇"
+	},
+	{
+		"name": "7-ELEVEn(宝龙金街店)",
+		"address": "浦沿街道义渡埠滨盛路宝龙城金街",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "滨江区",
+		"township_name": "浦沿街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "彭楼镇彭楼村委会正东方向110米",
+		"telephone": "0530-2391298",
+		"provincename": "山东省",
+		"cityname": "菏泽市",
+		"districtname": "鄄城县",
+		"township_name": "彭楼镇"
+	},
+	{
+		"name": "家乐福(中山路店)",
+		"address": "中山东路29号勒泰中心B1层",
+		"telephone": "0311-85876516;0311-67106128;0311-67106170",
+		"provincename": "河北省",
+		"cityname": "石家庄市",
+		"districtname": "长安区",
+		"township_name": "中山东路街道"
+	},
+	{
+		"name": "百佳超市(东田丽园店)",
+		"address": "常平镇常东路东田丽园领豪坊1、2栋首层",
+		"telephone": "0769-89382641;0769-89382640",
+		"provincename": "广东省",
+		"cityname": "东莞市",
+		"districtname": "东莞市",
+		"township_name": "常平镇"
+	},
+	{
+		"name": "OK便利店(红梅谷路)",
+		"address": "新界大围翠田街2号",
+		"telephone": "00852-29916337",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "沙田区"
+	},
+	{
+		"name": "华润万家(青园北路购物广场店)",
+		"address": "掘港镇华荣上海城铂金公寓1511室",
+		"provincename": "江苏省",
+		"cityname": "南通市",
+		"districtname": "如东县",
+		"township_name": "掘港镇"
+	},
+	{
+		"name": "7-ELEVEn(欣阳广场店)",
+		"address": "沙坪坝正街8号附7号-12号",
+		"telephone": 18883497514,
+		"provincename": "重庆市",
+		"cityname": "重庆市",
+		"districtname": "沙坪坝区",
+		"township_name": "沙坪坝街道"
+	},
+	{
+		"name": "7-ELEVEn(南沙恒喆中心)",
+		"address": "黄阁镇麒麟二街1号南沙恒喆中心116号铺",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "南沙区",
+		"township_name": "黄阁镇"
+	},
+	{
+		"name": "7-ELEVEn(馨名园店)",
+		"address": "白堤路265号馨名园1层",
+		"telephone": "022-87897883",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "南开区",
+		"township_name": "学府街道"
+	},
+	{
+		"name": "7-ELEVEn(沙河顶地铁店)",
+		"address": "沙河街道先烈东路与水荫路交叉口东50米",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "沙河街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "人民大道与320国道交叉口东南150米",
+		"provincename": "江西省",
+		"cityname": "萍乡市",
+		"districtname": "湘东区",
+		"township_name": "湘东镇"
+	},
+	{
+		"name": "华润万家(赤湾六路店)",
+		"address": "赤湾六路赤湾石油大厦北侧约40米",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "南山区",
+		"township_name": "招商街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "青山公路青山湾段393号",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "屯门区"
+	},
+	{
+		"name": "华联超市绍鲁店(高后线)",
+		"address": "高后线",
+		"telephone": "0571-63899102;13858105063",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "临安区",
+		"township_name": "於潜镇"
+	},
+	{
+		"name": "华联超市(新中路店)",
+		"address": "新河镇新河公路95号",
+		"telephone": "021-59681252",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "崇明区",
+		"township_name": "新河镇"
+	},
+	{
+		"name": "华联超市(白果路店)",
+		"address": "雄州镇马家岗163号(紫金大酒店对面)",
+		"telephone": "13770818988;13915909255",
+		"provincename": "江苏省",
+		"cityname": "南京市",
+		"districtname": "六合区",
+		"township_name": "雄州街道"
+	},
+	{
+		"name": "百佳超市(祁胜路店)",
+		"address": "玉祁镇玉东开发区祁胜路(酒厂对面)",
+		"telephone": "0510-83897043",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "惠山区",
+		"township_name": "玉祁街道"
+	},
+	{
+		"name": "华联超市",
+		"address": "国和路1374-1号",
+		"telephone": "021-55493167",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "杨浦区",
+		"township_name": "殷行街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "017县道东50米",
+		"provincename": "黑龙江省",
+		"cityname": "大庆市",
+		"districtname": "林甸县",
+		"township_name": "四季青镇"
+	},
+	{
+		"name": "上海华联超市(南环大街店)",
+		"address": "南环大街65号",
+		"telephone": 13301547407,
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "姑苏区",
+		"township_name": "吴门桥街道"
+	},
+	{
+		"name": "7-ELEVEn(新悦大信店)",
+		"address": "南安路18(大信新都汇新悦店一楼肯德基旁)",
+		"telephone": 13420279854,
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "石岐区街道"
+	},
+	{
+		"name": "华润万家",
+		"address": "惠东大道东山湖海上城首层物业区1楼",
+		"telephone": "0752-8678180",
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠东县",
+		"township_name": "平山街道"
+	},
+	{
+		"name": "家乐福(上海绿地瑞平路店)",
+		"address": "瑞平路76号W-131室",
+		"telephone": "4008512512;021-54252987",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "徐汇区",
+		"township_name": "斜土路街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "横山街道横山镇南大街古城东路上港旧屠宰场隔壁",
+		"provincename": "陕西省",
+		"cityname": "榆林市",
+		"districtname": "横山区",
+		"township_name": "榆阳镇"
+	},
+	{
+		"name": "华润万家(莲塘店)",
+		"address": "莲塘街道聚宝路鹏兴花园莲塘华润万家超市熟食柜台",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "罗湖区",
+		"township_name": "莲塘街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "焦陂镇酒厂对面",
+		"provincename": "安徽省",
+		"cityname": "阜阳市",
+		"districtname": "阜南县",
+		"township_name": "焦陂镇"
+	},
+	{
+		"name": "百佳超级市场(香港柴湾道店)",
+		"address": "柴湾道111号高威阁1层B铺",
+		"telephone": "00852-23531238",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "东区"
+	},
+	{
+		"name": "7-ELEVEn(惠新西街店)",
+		"address": "惠新西街23号6号房",
+		"telephone": "010-64920711",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "小关街道"
+	},
+	{
+		"name": "华润万家(星河智荟分店)",
+		"address": "龙岗大道6698号星河智荟A1区商铺",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "园山街道"
+	},
+	{
+		"name": "华联超市(强国店)",
+		"address": "凇兴西路98号",
+		"telephone": "021-56843566",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "宝山区",
+		"township_name": "吴淞街道"
+	},
+	{
+		"name": "家乐福(新田360广场)",
+		"address": "花园路39号新田360广场B1",
+		"provincename": "河南省",
+		"cityname": "郑州市",
+		"districtname": "金水区",
+		"township_name": "文化路街道"
+	},
+	{
+		"name": "家乐福连锁店",
+		"address": "黄圃镇机场路1339号百信广场",
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "黄圃镇"
+	},
+	{
+		"name": "7-ELEVEn(勤俭道地铁站店)",
+		"address": "白酒厂大道康源公寓",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "红桥区",
+		"township_name": "咸阳北路街道"
+	},
+	{
+		"name": "华润万家(和平店)",
+		"address": "塘山路与196县道交叉口南50米和平购物中心",
+		"provincename": "江西省",
+		"cityname": "九江市",
+		"districtname": "武宁县",
+		"township_name": "船滩镇"
+	},
+	{
+		"name": "华润万家(淮北九一0厂便利店)",
+		"address": "东山路910厂梅孚加油站西侧150米",
+		"telephone": "0561-3922445",
+		"provincename": "安徽省",
+		"cityname": "淮北市",
+		"districtname": "相山区",
+		"township_name": "高岳街道"
+	},
+	{
+		"name": "麦德龙(花都商场店)",
+		"address": "凰南路以东东莲花路以北田美城广场",
+		"telephone": "020-66619888",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "花都区",
+		"township_name": "新雅街道"
+	},
+	{
+		"name": "华联超市(洪庙路)",
+		"address": "洪庙路149号",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "奉贤区",
+		"township_name": "奉城镇"
+	},
+	{
+		"name": "华润万家(上饶店)",
+		"address": "胜利路42号润丰广场",
+		"telephone": 4006057182,
+		"provincename": "江西省",
+		"cityname": "上饶市",
+		"districtname": "信州区",
+		"township_name": "西市街道"
+	},
+	{
+		"name": "7-ELEVEn(永鑫商务酒店店)",
+		"address": "建塘镇北郊市区旺池卡新村214国道旁",
+		"telephone": 18808850837,
+		"provincename": "云南省",
+		"cityname": "迪庆藏族自治州",
+		"districtname": "香格里拉市",
+		"township_name": "建塘镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "兴莲乡",
+		"provincename": "江西省",
+		"cityname": "赣州市",
+		"districtname": "兴国县",
+		"township_name": "兴莲乡"
+	},
+	{
+		"name": "高新区百佳超市",
+		"address": "顺清街与西源大道交叉口南",
+		"telephone": 13540812961,
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "郫都区",
+		"township_name": "合作街道"
+	},
+	{
+		"name": "7-ELEVEn(得意世界店)",
+		"address": "较场口87号得意世界B区一楼",
+		"provincename": "重庆市",
+		"cityname": "重庆市",
+		"districtname": "渝中区",
+		"township_name": "解放碑街道"
+	},
+	{
+		"name": "石龙沃尔玛苹果专卖店",
+		"address": "石龙汇星商业中心",
+		"provincename": "广东省",
+		"cityname": "东莞市",
+		"districtname": "东莞市",
+		"township_name": "石龙镇"
+	},
+	{
+		"name": "7-ELEVEn(福耀大厦东南)",
+		"address": "大坑东游乐场",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "深水埗区"
+	},
+	{
+		"name": "家乐福",
+		"address": "港炮线与白石线交叉口西南50米",
+		"provincename": "江苏省",
+		"cityname": "徐州市",
+		"districtname": "邳州市",
+		"township_name": "官湖镇"
+	},
+	{
+		"name": "家乐福(天竺店)",
+		"address": "天北路水木兰亭花园",
+		"telephone": "010-50935960;010-50935874",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "顺义区",
+		"township_name": "空港街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "人和镇广州翼空港文旅游小镇",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "白云区",
+		"township_name": "人和镇"
+	},
+	{
+		"name": "百佳超市(水门街店)",
+		"address": "水门街红星幼儿园斜对面(朝阳幼儿园东北)",
+		"provincename": "山西省",
+		"cityname": "临汾市",
+		"districtname": "尧都区",
+		"township_name": "乡贤街街道"
+	},
+	{
+		"name": "华润万家(盛龙广场店)",
+		"address": "方新村北盛龙广场B1层",
+		"telephone": "029-86238799",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "未央区",
+		"township_name": "张家堡街道"
+	},
+	{
+		"name": "百佳超市(瓦房店)",
+		"address": "工联街文兰办事处东风委1栋1-1和1-2号",
+		"telephone": 13134118532,
+		"provincename": "辽宁省",
+		"cityname": "大连市",
+		"districtname": "瓦房店市",
+		"township_name": "文兰办事处"
+	},
+	{
+		"name": "家乐福",
+		"address": "君堂镇新南路38号",
+		"telephone": "0750-7581317;13066217686",
+		"provincename": "广东省",
+		"cityname": "江门市",
+		"districtname": "恩平市",
+		"township_name": "君堂镇"
+	},
+	{
+		"name": "OK便利店(田心街)",
+		"address": "田心街10-18号云叠花园地下10A号",
+		"telephone": "00852-29916337",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "沙田区"
+	},
+	{
+		"name": "家乐福",
+		"address": "006县道附近",
+		"telephone": "0370-5721444",
+		"provincename": "河南省",
+		"cityname": "商丘市",
+		"districtname": "永城市",
+		"township_name": "酇阳镇"
+	},
+	{
+		"name": "世纪华联超市",
+		"address": "庄桥街道丽庄路373-377号",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "江北区",
+		"township_name": "庄桥街道"
+	},
+	{
+		"name": "7-ELEVEn(荔湾店)",
+		"address": "荔湾路102号第2栋104",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "荔湾区",
+		"township_name": "彩虹街道"
+	},
+	{
+		"name": "北京华联超市(西大街店)",
+		"address": "南白街道阳光花园",
+		"provincename": "贵州省",
+		"cityname": "遵义市",
+		"districtname": "播州区",
+		"township_name": "南白镇"
+	},
+	{
+		"name": "家乐福(永康店)",
+		"address": "永康路17号正成广场负一楼家乐福",
+		"telephone": "028-65273208;028-65273232;028-65273231",
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "武侯区",
+		"township_name": "机投桥街道"
+	},
+	{
+		"name": "华润万家购物",
+		"address": "踢球医院对面",
+		"telephone": "13585378715;18260775553",
+		"provincename": "江苏省",
+		"cityname": "徐州市",
+		"districtname": "新沂市",
+		"township_name": "时集镇"
+	},
+	{
+		"name": "BHG Market Place(德基广场2期)",
+		"address": "中山路18号德基广场2期B1层",
+		"telephone": "025-87757839",
+		"provincename": "江苏省",
+		"cityname": "南京市",
+		"districtname": "玄武区",
+		"township_name": "华侨路街道"
+	},
+	{
+		"name": "沃尔玛(广州南洲店)",
+		"address": "盈中路好信街8号好信广场2层",
+		"telephone": "020-34252340;020-34252341",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "南洲街道"
+	},
+	{
+		"name": "7-ELEVEn(映月湖环宇城店)",
+		"address": "桂城街道石龙南路6号南海环宇城F1层",
+		"telephone": "0757-81010305",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "桂城街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "G230中国信合(曹黄林乡信用社)东南侧约180米",
+		"telephone": 15939798979,
+		"provincename": "河南省",
+		"cityname": "信阳市",
+		"districtname": "息县",
+		"township_name": "曹黄林镇"
+	},
+	{
+		"name": "7-ELEVEn(高志大厦)",
+		"address": "石牌西路高志大厦1层",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "冼村街道"
+	},
+	{
+		"name": "7-ELEVEn(兴盛路2店)",
+		"address": "兴盛路6号尚东君御雅苑商场首层自编11号",
+		"telephone": 18148624170,
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "冼村街道"
+	},
+	{
+		"name": "7-ELEVEn(小西湾道)",
+		"address": "柴湾小西湾富景花园商场第9,14,14A,21-22号铺地下",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "东区"
+	},
+	{
+		"name": "百佳超市(洛溪店)",
+		"address": "大石镇洛溪新城如意中心1层",
+		"telephone": "020-84586235",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "洛浦街道"
+	},
+	{
+		"name": "华润万家(宝湖东路店)",
+		"address": "宝湖东路55号",
+		"provincename": "宁夏回族自治区",
+		"cityname": "银川市",
+		"districtname": "兴庆区",
+		"township_name": "前进街街道"
+	},
+	{
+		"name": "华联超市",
+		"address": "人民街7号(溧阳市兽医卫生监督所南渡报检点西)",
+		"provincename": "江苏省",
+		"cityname": "常州市",
+		"districtname": "溧阳市",
+		"township_name": "南渡镇"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "建宝路与严桥路交叉路口往东约200米",
+		"provincename": "江苏省",
+		"cityname": "盐城市",
+		"districtname": "建湖县",
+		"township_name": "近湖镇"
+	},
+	{
+		"name": "7-ELEVEn(麓山南路店)",
+		"address": "岳蕃街道麓山南路690号1楼101",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "岳麓区",
+		"township_name": "岳麓街道"
+	},
+	{
+		"name": "家乐福(宝龙城市广场店)",
+		"address": "工业路193号宝龙城市广场2层",
+		"telephone": "0591-83833105;0591-83833200",
+		"provincename": "福建省",
+		"cityname": "福州市",
+		"districtname": "台江区",
+		"township_name": "宁化街道"
+	},
+	{
+		"name": "卜蜂莲花-扶梯",
+		"address": "江月路1800号卜蜂莲花F1",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "闵行区",
+		"township_name": "浦江镇"
+	},
+	{
+		"name": "华润万家(碧螺春街店)",
+		"address": "金庭路116号",
+		"telephone": "4008222666;18915422516",
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "吴中区",
+		"township_name": "临湖镇"
+	},
+	{
+		"name": "华润万家大卖场华东(中山店)",
+		"address": "中山路华润万家2楼",
+		"telephone": 4006057182,
+		"provincename": "江西省",
+		"cityname": "南昌市",
+		"districtname": "西湖区",
+		"township_name": "西湖街道"
+	},
+	{
+		"name": "OK便利店",
+		"address": "台柳路557号天怡景园a区5号楼2单元6029号楼",
+		"provincename": "山东省",
+		"cityname": "青岛市",
+		"districtname": "市北区",
+		"township_name": "河西街道"
+	},
+	{
+		"name": "华润万家(广安店)",
+		"address": "金安大道一段169号中天国际B1层",
+		"telephone": "0826-2568687;0826-2568690",
+		"provincename": "四川省",
+		"cityname": "广安市",
+		"districtname": "广安区",
+		"township_name": "广福街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "林和街道体育东路122号羊城国际商贸中心首层",
+		"telephone": "020-38871917",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "天河南街道"
+	},
+	{
+		"name": "华润万家(笔架路门店)",
+		"address": "笔架路29号美林商业广场二层至三层",
+		"telephone": "0763-5857212",
+		"provincename": "广东省",
+		"cityname": "清远市",
+		"districtname": "清新区",
+		"township_name": "太和镇"
+	},
+	{
+		"name": "沃尔玛(洪湖店)",
+		"address": "洪湖路湖景花园1-3层",
+		"telephone": "0755-25629815",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "罗湖区",
+		"township_name": "笋岗街道"
+	},
+	{
+		"name": "7-eleven(gz天安)-0194(天安科技创新大厦店)",
+		"address": "东环街迎宾路730号天安科技创新大厦104之一",
+		"telephone": "020-23889565",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "东环街道"
+	},
+	{
+		"name": "7-ELEVEn(高明美的鹭湖店)",
+		"address": "杨和镇高明大道美的鹭湖度假区安纳希小镇103号",
+		"telephone": 13631859043,
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "高明区",
+		"township_name": "杨和镇"
+	},
+	{
+		"name": "7-ELEVEn(横琴创意谷店)",
+		"address": "横琴镇环岛东路1889号创意谷17栋17-A1号",
+		"telephone": 4006308711,
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "横琴镇"
+	},
+	{
+		"name": "家乐福商行",
+		"address": "嘉定镇同益市场B39号",
+		"telephone": 13237685236,
+		"provincename": "江西省",
+		"cityname": "赣州市",
+		"districtname": "信丰县",
+		"township_name": "嘉定镇"
+	},
+	{
+		"name": "OK便利店(利昌大厦西)",
+		"address": "湾仔道218-220B号",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "湾仔区"
+	},
+	{
+		"name": "OK便利店(长安涌头店)",
+		"address": "怡景街5号东90米",
+		"provincename": "广东省",
+		"cityname": "东莞市",
+		"districtname": "东莞市",
+		"township_name": "长安镇"
+	},
+	{
+		"name": "7-ELEVEn(山东科技大学店)(暂停营业)",
+		"address": "前湾港路579号山科大学生生活区C区18号楼(学术交流中心)",
+		"provincename": "山东省",
+		"cityname": "青岛市",
+		"districtname": "黄岛区",
+		"township_name": "辛安街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "新塘镇广园东碧桂园凤凰城东门商业街233号商铺",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "增城区",
+		"township_name": "永宁街道"
+	},
+	{
+		"name": "李堡农贸市场",
+		"address": "144乡道北50米",
+		"telephone": "0513-88226988",
+		"provincename": "江苏省",
+		"cityname": "南通市",
+		"districtname": "海安市",
+		"township_name": "李堡镇"
+	},
+	{
+		"name": "家乐福(长江西路店)",
+		"address": "长江西路199号国购广场2层",
+		"telephone": "0551-65168877;0551-65164092",
+		"provincename": "安徽省",
+		"cityname": "合肥市",
+		"districtname": "蜀山区",
+		"township_name": "三里庵街道"
+	},
+	{
+		"name": "沃尔玛(惠州文明一路分店)",
+		"address": "江北文明一路5号乐合城",
+		"telephone": "0752-7215798;0752-7215799",
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠城区",
+		"township_name": "江北街道"
+	},
+	{
+		"name": "卜蜂莲花大世界",
+		"address": "沂蒙路198号(近银雀山路)",
+		"telephone": "0539-6378077",
+		"provincename": "山东省",
+		"cityname": "临沂市",
+		"districtname": "兰山区",
+		"township_name": "金雀山街道"
+	},
+	{
+		"name": "华润万家标超南区(百合家园)",
+		"address": "博爱七路实地璟湖城A1-A2栋",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "火炬开发区街道"
+	},
+	{
+		"name": "7-ELEVEn(金翠园店)",
+		"address": "田贝二路金翠园114号商铺(现田贝二路9-14号商铺)",
+		"telephone": "0755-25117517",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "罗湖区",
+		"township_name": "翠竹街道"
+	},
+	{
+		"name": "华联超市(竹韵路店)",
+		"address": "水产路2600弄88号104铺",
+		"telephone": "021-36071176",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "宝山区",
+		"township_name": "杨行镇"
+	},
+	{
+		"name": "7-ELEVEn(方庄桥北店)",
+		"address": "南三环四方景园二区配套商业一层1-1-01号",
+		"telephone": "010-57729046",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "丰台区",
+		"township_name": "东铁匠营街道"
+	},
+	{
+		"name": "杭州华联",
+		"address": "乾元镇环城北路75号",
+		"telephone": 18458270018,
+		"provincename": "浙江省",
+		"cityname": "湖州市",
+		"districtname": "德清县",
+		"township_name": "乾元镇"
+	},
+	{
+		"name": "7-ELEVEn(中梁店)",
+		"address": "将军大道639-4号",
+		"telephone": 19959619711,
+		"provincename": "福建省",
+		"cityname": "漳州市",
+		"districtname": "云霄县",
+		"township_name": "云陵镇"
+	},
+	{
+		"name": "华润万家",
+		"address": "迎宾北路1224号",
+		"telephone": "0756-2270227",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "翠香街道"
+	},
+	{
+		"name": "7-ELEVEn(西湖路第六十四分店)",
+		"address": "西湖路38号1层",
+		"telephone": "020-83193304",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "越秀区",
+		"township_name": "北京街道"
+	},
+	{
+		"name": "华润万家(龙湖杭州金沙天街店)",
+		"address": "金沙大道560号龙湖杭州金沙天街B2-86/B1-47",
+		"telephone": "0571-28061917;13396583392",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "钱塘区",
+		"township_name": "下沙街道"
+	},
+	{
+		"name": "沃尔玛(东方广场店)",
+		"address": "锦华路85号世纪东方广场B1层",
+		"telephone": "0757-82136130",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "禅城区",
+		"township_name": "祖庙街道"
+	},
+	{
+		"name": "家乐福(大李卫生院西)",
+		"address": "324省道北50米牛角店镇大李中心幼儿园斜对面",
+		"provincename": "山东省",
+		"cityname": "聊城市",
+		"districtname": "东阿县",
+		"township_name": "牛角店镇"
+	},
+	{
+		"name": "家乐福综合超市",
+		"address": "馆陶镇安静村消防大队对过",
+		"telephone": "0310-2898199;18031099595",
+		"provincename": "河北省",
+		"cityname": "邯郸市",
+		"districtname": "馆陶县",
+		"township_name": "馆陶镇"
+	},
+	{
+		"name": "7-ELEVEn(大兴龙湖星悦荟店)",
+		"address": "西安市莲湖区大兴东路龙湖大兴星悦荟2号门旁",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "莲湖区",
+		"township_name": "红庙坡街道"
+	},
+	{
+		"name": "家乐福(泛悦国际店)",
+		"address": "长荣路56号泛悦国际1栋1单元B1层",
+		"telephone": "028-61063221;028-61069225",
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "武侯区",
+		"township_name": "火车南站街道"
+	},
+	{
+		"name": "沃尔玛(攀枝花炳草岗店)",
+		"address": "攀枝花大道东段439号云锦金瓯广场B1层",
+		"telephone": "0812-8883998",
+		"provincename": "四川省",
+		"cityname": "攀枝花市",
+		"districtname": "东区",
+		"township_name": "炳草岗街道"
+	},
+	{
+		"name": "7-ELEVEn(四平路店)",
+		"address": "四平路186号",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "虹口区",
+		"township_name": "嘉兴路街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "邮政储蓄银行(获嘉县冯庄镇政府东北)",
+		"telephone": "0373-4727988",
+		"provincename": "河南省",
+		"cityname": "新乡市",
+		"districtname": "获嘉县",
+		"township_name": "冯庄镇"
+	},
+	{
+		"name": "百佳(国际店)",
+		"address": "汇景北路40号汇景新城内",
+		"telephone": "020-85502956;020-38028457",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "五山街道"
+	},
+	{
+		"name": "LINLING",
+		"address": "凯江镇公园街65号",
+		"telephone": 15983845893,
+		"provincename": "四川省",
+		"cityname": "德阳市",
+		"districtname": "中江县",
+		"township_name": "凯江镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "万华村恒天路顺丰速运旁",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "海曙区",
+		"township_name": "横街镇"
+	},
+	{
+		"name": "7-ELEVEn(外国语大学店)",
+		"address": "天津外国语大学马场道117号里面",
+		"telephone": "022-23240075",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河西区",
+		"township_name": "桃园街道"
+	},
+	{
+		"name": "华联超市(一二八纪念路店)",
+		"address": "一二八纪念路39号",
+		"telephone": "021-66203918",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "宝山区",
+		"township_name": "淞南镇"
+	},
+	{
+		"name": "7-ELEVEn(安贞桥胜古南里店)",
+		"address": "北三环安贞桥胜古南里甲34号安贞桥东北角",
+		"telephone": "010-64431121;010-64430113",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "和平街街道"
+	},
+	{
+		"name": "7-ELEVEn(蔡锷中路店)",
+		"address": "蔡锷中路079号一层810-1",
+		"telephone": "0731-85510995",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "芙蓉区",
+		"township_name": "定王台街道"
+	},
+	{
+		"name": "百佳超市",
+		"address": "白云路白云社区18号楼1单元",
+		"provincename": "江苏省",
+		"cityname": "徐州市",
+		"districtname": "鼓楼区",
+		"township_name": "丰财街道"
+	},
+	{
+		"name": "OK便利店(滨江东店)",
+		"address": "滨江东路90号108铺",
+		"telephone": "020-84048419",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "新港街道"
+	},
+	{
+		"name": "华润万家标超南区(兰江山第分店)",
+		"address": "兰江山第花园一期2栋B座半地下室101、102号",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "福田区",
+		"township_name": "梅林街道"
+	},
+	{
+		"name": "惠康",
+		"address": "S106(万泉街南段)",
+		"telephone": 17365681100,
+		"provincename": "陕西省",
+		"cityname": "渭南市",
+		"districtname": "澄城县",
+		"township_name": "城郊乡"
+	},
+	{
+		"name": "家乐福",
+		"address": "碧水锦绣城对面",
+		"provincename": "贵州省",
+		"cityname": "黔西南布依族苗族自治州",
+		"districtname": "安龙县",
+		"township_name": "德卧镇"
+	},
+	{
+		"name": "7-ELEVEn(中兴店)",
+		"address": "晨晖路和松涛路的交叉口附近",
+		"telephone": "021-50795572",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "浦东新区",
+		"township_name": "张江高科技园区"
+	},
+	{
+		"name": "7-ELEVEn(凤城四路店)",
+		"address": "凤城四路中登广场1F一点点旁",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "未央区",
+		"township_name": "张家堡街道"
+	},
+	{
+		"name": "惠康",
+		"address": "毓华里6-10B号永发大厦地下1-6铺",
+		"telephone": "00852-23524925",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "黄大仙区"
+	},
+	{
+		"name": "华润万家(月亮湾国际中心店)",
+		"address": "苏州工业园区直属镇翠薇街九号月亮湾国际中心",
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "吴中区",
+		"township_name": "苏州工业园区直属镇"
+	},
+	{
+		"name": "华联超市(宁溪店)",
+		"address": "宁溪镇桥亭街金山岭下",
+		"telephone": "0576-84991899",
+		"provincename": "浙江省",
+		"cityname": "台州市",
+		"districtname": "黄岩区",
+		"township_name": "宁溪镇"
+	},
+	{
+		"name": "7-ELEVEn(风烟线店)",
+		"address": "风烟线",
+		"provincename": "河南省",
+		"cityname": "平顶山市",
+		"districtname": "汝州市",
+		"township_name": "风穴路街道"
+	},
+	{
+		"name": "7-ELEVEn(绿地中央广场1260店)",
+		"address": "在广东省广州市黄埔区科学大道80号d栋101",
+		"telephone": "020-31600662",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "黄埔区",
+		"township_name": "联和街道"
+	},
+	{
+		"name": "百佳超市(正东方店)",
+		"address": "(清湖双环学校西南侧约50米)",
+		"provincename": "湖北省",
+		"cityname": "恩施土家族苗族自治州",
+		"districtname": "鹤峰县",
+		"township_name": "燕子乡"
+	},
+	{
+		"name": "小天鹅化妆品商行",
+		"address": "横山体委对面",
+		"telephone": "0912-7619666",
+		"provincename": "陕西省",
+		"cityname": "榆林市",
+		"districtname": "横山区",
+		"township_name": "横山镇"
+	},
+	{
+		"name": "7-ELEVEn(天河城店)",
+		"address": "天河路208号天河城B1层B105铺",
+		"telephone": "020-85586086",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "天河南街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "淮滨路中国邮政储蓄银行东南150米",
+		"telephone": 15937687139,
+		"provincename": "河南省",
+		"cityname": "信阳市",
+		"districtname": "淮滨县",
+		"township_name": "淮滨县台头乡"
+	},
+	{
+		"name": "7-ELEVEn(昭隆街)",
+		"address": "中环干诺道中13-14号及德辅道中21-23号欧陆贸易中心地下Y2号铺",
+		"telephone": "00852-28105366",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "中西区"
+	},
+	{
+		"name": "7-ELEVEn(凯旋荟店)",
+		"address": "宝龙路30号",
+		"telephone": "0755-28288319",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "布吉街道"
+	},
+	{
+		"name": "7-ELEVEn(金月湾店)",
+		"address": "东城大道金月湾花园",
+		"telephone": "0769-23131830",
+		"provincename": "广东省",
+		"cityname": "东莞市",
+		"districtname": "东莞市",
+		"township_name": "东城街道"
+	},
+	{
+		"name": "乐购(青王路店)",
+		"address": "青王路",
+		"telephone": 18907113077,
+		"provincename": "湖北省",
+		"cityname": "武汉市",
+		"districtname": "洪山区",
+		"township_name": "东湖风景区街道（洪山）"
+	},
+	{
+		"name": "家乐福(锦绣路店)",
+		"address": "锦绣路246号",
+		"telephone": 13985690937,
+		"provincename": "贵州省",
+		"cityname": "遵义市",
+		"districtname": "赤水市",
+		"township_name": "市中街道"
+	},
+	{
+		"name": "华润万家(天水北路店)",
+		"address": "天水北路68号万达广场",
+		"telephone": "0931-8553598;0931-8553800",
+		"provincename": "甘肃省",
+		"cityname": "兰州市",
+		"districtname": "城关区",
+		"township_name": "雁北街道"
+	},
+	{
+		"name": "7-ELEVEn(第二儿童医院店)",
+		"address": "龙岩道238号第二儿童医院住院部1层",
+		"telephone": "022-26699558",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "北辰区",
+		"township_name": "瑞景街道"
+	},
+	{
+		"name": "华润万家",
+		"address": "南湾街道玉岭花园B6栋(俊龙药行斜对面)",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "南湾街道"
+	},
+	{
+		"name": "华联超市(刘市路店)",
+		"address": "金港大道(近辅路)",
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "张家港市",
+		"township_name": "张家港经济技术开发区"
+	},
+	{
+		"name": "华联超市(中桥店)",
+		"address": "和桥镇西横街44号",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "宜兴市",
+		"township_name": "和桥镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "巴彦呼舒大街与巴扎拉嘎路交叉口东北100米",
+		"provincename": "内蒙古自治区",
+		"cityname": "兴安盟",
+		"districtname": "科尔沁右翼中旗",
+		"township_name": "巴彦呼舒镇"
+	},
+	{
+		"name": "7-ELEVEn(研发楼店)",
+		"address": "康桥镇秀沿路3768号研发楼二层201室",
+		"telephone": 13916877939,
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "浦东新区",
+		"township_name": "康桥镇"
+	},
+	{
+		"name": "7-ELEVEn(双清路店)",
+		"address": "双清路88号华源世纪商务楼",
+		"telephone": "010-82526052",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "海淀区",
+		"township_name": "东升地区办事处"
+	},
+	{
+		"name": "华润万家(青少年宫路店)",
+		"address": "青少年宫路105-111号",
+		"telephone": 4008222666,
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "慈溪市",
+		"township_name": "古塘街道"
+	},
+	{
+		"name": "沃尔玛(复城国际中心店)",
+		"address": "横凉亭路3号复城国际东方茂购物中心2-3层",
+		"telephone": "0571-61767288;0571-61767299",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "富阳区",
+		"township_name": "富春街道"
+	},
+	{
+		"name": "7-ELEVEn(沙园店)",
+		"address": "榕景路42号1层",
+		"telephone": "020-34395984",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "沙园街道"
+	},
+	{
+		"name": "华润万家(海伦春天店)",
+		"address": "神农路23号朗裕花园2-3卡",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "坦洲镇"
+	},
+	{
+		"name": "华润万家(梅花豪庭店)",
+		"address": "梅花路3-5号",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "前山街道"
+	},
+	{
+		"name": "上海世纪华联超市(朱坝店)",
+		"address": "朱坝镇黄山路45号",
+		"provincename": "江苏省",
+		"cityname": "淮安市",
+		"districtname": "洪泽区",
+		"township_name": "朱坝镇"
+	},
+	{
+		"name": "沃尔玛中汇家居建材博览中心",
+		"address": "太平街道办事处富强社区10号中汇商业城",
+		"telephone": "0870-2855031;0870-2855034;0870-2855001",
+		"provincename": "云南省",
+		"cityname": "昭通市",
+		"districtname": "昭阳区",
+		"township_name": "太平街道"
+	},
+	{
+		"name": "麦德龙(京顺路商场店)",
+		"address": "京顺路111号",
+		"telephone": "010-84556900;010-84556888",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "望京街道"
+	},
+	{
+		"name": "家乐福(奥林花园店)",
+		"address": "蠡溪路496号",
+		"telephone": "0510-66616680;0510-81803580",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "滨湖区",
+		"township_name": "蠡园街道"
+	},
+	{
+		"name": "7-ELEVEn(天安中心)",
+		"address": "桂城季华东路31号天安中心3座104号",
+		"telephone": "0757-86222529",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "桂城街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "东方家具城东60米",
+		"provincename": "山东省",
+		"cityname": "济宁市",
+		"districtname": "微山县",
+		"township_name": "傅村街道"
+	},
+	{
+		"name": "华润万家(创新路店)",
+		"address": "创新路川港镇中心幼儿园华润万家",
+		"provincename": "江苏省",
+		"cityname": "南通市",
+		"districtname": "通州区",
+		"township_name": "川姜镇"
+	},
+	{
+		"name": "政府储备蔬菜投放点-华润万家三桥新街店",
+		"address": "西咸新区沣东新城三桥新街139号万象城B1层",
+		"telephone": "029-84538400",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "未央区",
+		"township_name": "三桥街道"
+	},
+	{
+		"name": "沃尔玛(昌崔路店)",
+		"address": "昌崔路203号菓岭假日广场1-3层",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "昌平区",
+		"township_name": "城北街道"
+	},
+	{
+		"name": "7-ELEVEn(创投大厦店)",
+		"address": "腾飞路9号龙岗创投大厦裙楼",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙城街道"
+	},
+	{
+		"name": "华联超市(鹤望路店)",
+		"address": "鹤望路390号",
+		"telephone": "021-69111877",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "嘉定区",
+		"township_name": "江桥镇"
+	},
+	{
+		"name": "百佳超市(高威阁店)",
+		"address": "柴湾道111号高威阁1层B",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "东区"
+	},
+	{
+		"name": "7-ELEVEn(天平架店)",
+		"address": "天平架地铁站内",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "沙东街道"
+	},
+	{
+		"name": "上海华联超市(解放路店)",
+		"address": "解放路10号",
+		"telephone": 13387449531,
+		"provincename": "湖南省",
+		"cityname": "张家界市",
+		"districtname": "永定区",
+		"township_name": "崇文街道"
+	},
+	{
+		"name": "华润万家",
+		"address": "东街与028县道交叉口东100米",
+		"provincename": "甘肃省",
+		"cityname": "庆阳市",
+		"districtname": "正宁县",
+		"township_name": "永和镇"
+	},
+	{
+		"name": "7-ELEVEn(江南苑店)",
+		"address": "宝业路532号江南苑",
+		"telephone": "020-31956636;020-28639071",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "沙园街道"
+	},
+	{
+		"name": "7-ELEVEn(杭州萧山国际机场)",
+		"address": "空港大道1号杭州萧山国际机场3F层",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "萧山区",
+		"township_name": "萧山空港经济区"
+	},
+	{
+		"name": "7-ELEVEN 花语水岸店",
+		"address": "印月街3号101、102房(自编号6号楼1栋)",
+		"telephone": "020-81619037",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "荔湾区",
+		"township_name": "桥中街道"
+	},
+	{
+		"name": "7-ELEVEn南十里居中路店",
+		"address": "南十里居48号院4号楼1层106",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "东风地区办事处"
+	},
+	{
+		"name": "华润万家",
+		"address": "南曹乡兴华园小学西南侧约120米",
+		"telephone": 15237865595,
+		"provincename": "河南省",
+		"cityname": "开封市",
+		"districtname": "尉氏县",
+		"township_name": "南曹乡"
+	},
+	{
+		"name": "华润万家便利超市(包头道店)",
+		"address": "包头道26号",
+		"telephone": "022-27304275",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "和平区",
+		"township_name": "劝业场街道"
+	},
+	{
+		"name": "7-ELEVEn(绥江道店)",
+		"address": "解放南路468号-16号",
+		"telephone": "022-81261977",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河西区",
+		"township_name": "尖山街道"
+	},
+	{
+		"name": "7-ELEVEn(阳明广场店)",
+		"address": "小营路10号阳明广场3号楼1层西南角",
+		"telephone": "010-84662711",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "大屯街道"
+	},
+	{
+		"name": "惠康(悦来坊店)",
+		"address": "荃湾青山道15-23号荃湾花园1楼40-42,54-55,63-64,48,49及52号铺",
+		"telephone": "00852-31450338",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "荃湾区"
+	},
+	{
+		"name": "沃尔玛(虎牙关大道分店)",
+		"address": "虎牙关大道星球商业中心地下一层",
+		"telephone": "0724-8880002;0724-8658300",
+		"provincename": "湖北省",
+		"cityname": "荆门市",
+		"districtname": "掇刀区",
+		"township_name": "掇刀街道"
+	},
+	{
+		"name": "吉鹏便利店",
+		"address": "干江镇白马岙小区35号楼",
+		"provincename": "浙江省",
+		"cityname": "台州市",
+		"districtname": "玉环市",
+		"township_name": "干江镇"
+	},
+	{
+		"name": "老街栗子地瓜坊",
+		"address": "大栅栏西街75号",
+		"telephone": 13521651810,
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "西城区",
+		"township_name": "大栅栏街道"
+	},
+	{
+		"name": "华润万家(融湖世纪花园店)",
+		"address": "岗宏融湖中心城2栋106",
+		"telephone": "0755-28213019",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "平湖街道"
+	},
+	{
+		"name": "7-ELEVEn(龙归城店)",
+		"address": "龙归新城龙瑞路15号",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "白云区",
+		"township_name": "太和镇"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "一环路西段",
+		"provincename": "四川省",
+		"cityname": "达州市",
+		"districtname": "大竹县",
+		"township_name": "竹阳镇"
+	},
+	{
+		"name": "7-ELEVEn(樵岭国际)",
+		"address": "西樵镇江浦东路26号樵岭国际商业中心1栋106、107号铺",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "西樵镇"
+	},
+	{
+		"name": "溱潼华联家电",
+		"address": "溱潼镇中心街1号楼",
+		"provincename": "江苏省",
+		"cityname": "泰州市",
+		"districtname": "姜堰区",
+		"township_name": "溱潼镇"
+	},
+	{
+		"name": "7-ELEVEn(师范大学南门店)",
+		"address": "天津师范大学商业街二期112号",
+		"telephone": 13313391613,
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "西青区",
+		"township_name": "精武镇"
+	},
+	{
+		"name": "华润万家(松岗东方店)",
+		"address": "松岗东方大道鸿盛花园喜港城购物中心1-2层",
+		"telephone": "0755-23590895;0755-85292306",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "宝安区",
+		"township_name": "松岗街道"
+	},
+	{
+		"name": "7-ELEVEn(林和珺田乐店)",
+		"address": "林和东路121号101铺102铺",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "林和街道"
+	},
+	{
+		"name": "华润万家标超南区(启迪协信分店)",
+		"address": "大运新城青春路与龙飞大道交界处启迪协信深圳科技园2栋群楼一层01-05号、24-30号铺",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙城街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "康乐南路145号3单元113室",
+		"provincename": "广东省",
+		"cityname": "东莞市",
+		"districtname": "东莞市",
+		"township_name": "厚街镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "东冶西街皇家大酒店旁",
+		"telephone": 13994172277,
+		"provincename": "山西省",
+		"cityname": "忻州市",
+		"districtname": "五台县",
+		"township_name": "东冶镇"
+	},
+	{
+		"name": "7-ELEVEn(天安3店)",
+		"address": "番禺大道北555号天安节能科技园24号楼首层",
+		"telephone": "020-83995432",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "东环街道"
+	},
+	{
+		"name": "沃尔玛超市",
+		"address": "大望路万达广场93号院",
+		"telephone": "010-59603566;010-59603516",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "建外街道"
+	},
+	{
+		"name": "乐购(石板滩店)",
+		"address": "02县道",
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "新都区",
+		"township_name": "石板滩镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "清河大街附近",
+		"telephone": "0417-6551188;0417-7642288",
+		"provincename": "辽宁省",
+		"cityname": "营口市",
+		"districtname": "盖州市",
+		"township_name": "鼓楼街道"
+	},
+	{
+		"name": "华润万家(龙海商业广场店)",
+		"address": "月亮湾大道与桂湾三路交汇处龙海家园商业街B区142-143商铺",
+		"telephone": "0755-26917651",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "南山区",
+		"township_name": "前海合作区"
+	},
+	{
+		"name": "沃尔玛(24品店)",
+		"address": "24品生活中心",
+		"telephone": "0731-82926679",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "岳麓区",
+		"township_name": "观沙岭街道"
+	},
+	{
+		"name": "7-ELEVEn(高碑店一号店)",
+		"address": "通惠家园惠民园二号楼一层",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "高碑店地区办事处"
+	},
+	{
+		"name": "7-Eleven屯门市广场2期",
+		"address": "香港屯门屯隆街3号,Tuen Mun Town Plaza Phase 2 Block 2,7-Eleven,地下7铺",
+		"telephone": "00852-24045816",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "屯门区"
+	},
+	{
+		"name": "7-ELEVEn(东汇城店)",
+		"address": "荔城街道观翠路21号第一层141号铺",
+		"telephone": "020-32169816",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "增城区",
+		"township_name": "荔城街道"
+	},
+	{
+		"name": "7-ELEVEn(天安1263店)",
+		"address": "迎宾路天安科技园总部23号楼7层附近",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "东环街道"
+	},
+	{
+		"name": "7-ELEVEn(大荣酒店)",
+		"address": "林和西路9号耀中广场首层",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "林和街道"
+	},
+	{
+		"name": "EASY家乐福(古美店)",
+		"address": "古美路1528号7幢1层101-13、101-14室",
+		"telephone": "4008512512;13262877717",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "徐汇区",
+		"township_name": "漕河泾新兴技术开发区"
+	},
+	{
+		"name": "华润万家(龙光城店)",
+		"address": "西南大道88号龙光城50栋101号",
+		"telephone": "0752-5536556",
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠阳区",
+		"township_name": "大亚湾西区办事处"
+	},
+	{
+		"name": "家乐福(梦景园店)",
+		"address": "柯桥街道梦景园13幢101、102",
+		"telephone": 18357558689,
+		"provincename": "浙江省",
+		"cityname": "绍兴市",
+		"districtname": "柯桥区",
+		"township_name": "柯桥街道"
+	},
+	{
+		"name": "华润万家大卖场华东(梦想玩国临海店)",
+		"address": "柏叶西路316号(华润万家一楼)",
+		"telephone": 4006057182,
+		"provincename": "浙江省",
+		"cityname": "台州市",
+		"districtname": "临海市",
+		"township_name": "古城街道"
+	},
+	{
+		"name": "华润万家",
+		"address": "龙岗街道龙西社区龙禧雅苑6栋D001,D002,D003,D004,D005,D006",
+		"telephone": "0755-28711487",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙岗街道"
+	},
+	{
+		"name": "华润万家(财富店)",
+		"address": "八一大道357号财富广场1-4层",
+		"telephone": "0791-87562777;0791-87562666;0791-87562076",
+		"provincename": "江西省",
+		"cityname": "南昌市",
+		"districtname": "东湖区",
+		"township_name": "公园街道"
+	},
+	{
+		"name": "EASY家乐福(品尊店)",
+		"address": "岚皋路555号103-104室",
+		"telephone": "4008512512;17802196271",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "普陀区",
+		"township_name": "石泉路街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "文化街西充县大全镇小学校西南侧约90米",
+		"provincename": "四川省",
+		"cityname": "南充市",
+		"districtname": "西充县",
+		"township_name": "大全镇"
+	},
+	{
+		"name": "7-ELEVEn(国美第一城店)",
+		"address": "青年路西里2号院6号楼1层102",
+		"telephone": 15652757110,
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "平房地区办事处"
+	},
+	{
+		"name": "惠康(章阁店)",
+		"address": "观澜街道大水坑章阁新村4号202桂月路",
+		"telephone": 13243751668,
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙华区",
+		"township_name": "福城街道"
+	},
+	{
+		"name": "7-ELEVEn(梅江九华山路店)",
+		"address": "珠江道与九华山路交汇处路东",
+		"telephone": "022-88228717",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河西区",
+		"township_name": "梅江街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "化庄村委一街东头",
+		"provincename": "河南省",
+		"cityname": "驻马店市",
+		"districtname": "新蔡县",
+		"township_name": "化庄乡"
+	},
+	{
+		"name": "上海华联超市(众兴东路店)",
+		"address": "众兴东路40号",
+		"provincename": "江苏省",
+		"cityname": "宿迁市",
+		"districtname": "泗阳县",
+		"township_name": "众兴镇"
+	},
+	{
+		"name": "7-ELEVEn(紫东路店)",
+		"address": "紫东国际创意园G4幢1层",
+		"provincename": "江苏省",
+		"cityname": "南京市",
+		"districtname": "栖霞区",
+		"township_name": "南京紫东国际创意园"
+	},
+	{
+		"name": "Easy 家乐福(凤阳路店)",
+		"address": "恒基688广场",
+		"telephone": "021-61430887;13611698531",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "静安区",
+		"township_name": "石门二路街道"
+	},
+	{
+		"name": "华润万家(中信新城花园店)",
+		"address": "白云六路中信新城B区1幢1单元1层109-111号房",
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠阳区",
+		"township_name": "淡水街道"
+	},
+	{
+		"name": "华润万家(康乐花园店)",
+		"address": "港三路5号康乐花园首层29号",
+		"telephone": "0756-8139108;4008222666",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "拱北街道"
+	},
+	{
+		"name": "华润万家标超南区(可园店)",
+		"address": "布吉镇大芬村可园一期首层商铺",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "布吉街道"
+	},
+	{
+		"name": "7-ELEVEn(利通大厦)",
+		"address": "珠江新城珠江东路32号的利通广场规划设计楼层负一层",
+		"telephone": 4006308711,
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "冼村街道"
+	},
+	{
+		"name": "7-ELEVEn(嘉宝田花园店)",
+		"address": "笋岗东路嘉宝田花园F,G栋商铺01号",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "罗湖区",
+		"township_name": "笋岗街道"
+	},
+	{
+		"name": "华联超市(巴林店)",
+		"address": "巴林路84号(近商务中心易买得)",
+		"telephone": "021-65536637",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "虹口区",
+		"township_name": "曲阳路街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "幸福路(育新幼儿园南侧约150米)",
+		"provincename": "山东省",
+		"cityname": "临沂市",
+		"districtname": "兰陵县",
+		"township_name": "磨山镇"
+	},
+	{
+		"name": "家乐福(马渚镇云楼社区卫生服务站南店)",
+		"address": "中兴路246-248号",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "余姚市",
+		"township_name": "马渚镇"
+	},
+	{
+		"name": "华联超市(新桥老屋下店)",
+		"address": "老屋下村106号",
+		"telephone": "0571-63643318",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "临安区",
+		"township_name": "岛石镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "金钟大道(丹寨民族高级中学东南侧)",
+		"provincename": "贵州省",
+		"cityname": "黔东南苗族侗族自治州",
+		"districtname": "丹寨县",
+		"township_name": "龙泉镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "宝塔路与青年路交叉路口西侧(永城高级中学南侧约50米)",
+		"provincename": "河南省",
+		"cityname": "商丘市",
+		"districtname": "永城市",
+		"township_name": "城关镇"
+	},
+	{
+		"name": "RELX悦刻专卖店(巴中沃尔玛店)",
+		"address": "广场街87号B1层",
+		"telephone": "0827-3663166;0827-3663119",
+		"provincename": "四川省",
+		"cityname": "巴中市",
+		"districtname": "巴州区",
+		"township_name": "江北街道"
+	},
+	{
+		"name": "7-ELEVEn(证交所店)",
+		"address": "深南大道2012号深圳证券交易所广场首层108号",
+		"telephone": "0755-23607929",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "福田区",
+		"township_name": "莲花街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "人民大街6142号光机一区小区7栋前边",
+		"provincename": "吉林省",
+		"cityname": "长春市",
+		"districtname": "南关区",
+		"township_name": "南岭街道"
+	},
+	{
+		"name": "OK便利店",
+		"address": "永安路(玉湖中学西侧约50米)",
+		"telephone": 18125956890,
+		"provincename": "广东省",
+		"cityname": "揭阳市",
+		"districtname": "揭东区",
+		"township_name": "玉湖镇"
+	},
+	{
+		"name": "7-ELEVEn(绿景一路店)",
+		"address": "祖庙街道绿景一路32号首层P10号铺",
+		"telephone": "0757-83138293",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "禅城区",
+		"township_name": "石湾镇街道"
+	},
+	{
+		"name": "7-ELEVEn(斗门大信店)",
+		"address": "井岸镇中兴中路328号大信新都汇斗门店1F13A(南门旁边)",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "斗门区",
+		"township_name": "井岸镇"
+	},
+	{
+		"name": "7-ELEVEn(华侨城大厦)",
+		"address": "沙河街道中新街社区深南大道9018号华侨城大厦A座G-03",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "南山区",
+		"township_name": "沙河街道"
+	},
+	{
+		"name": "华润万家标超南区(陶源分店)",
+		"address": "龙城街道五联社区承翰陶源花园1栋E座157-161号商铺",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙岗街道"
+	},
+	{
+		"name": "BHG-生活超市(银川悦海新天地店)",
+		"address": "康平路悦海新天地5号公寓三层",
+		"telephone": "0951-7635150",
+		"provincename": "宁夏回族自治区",
+		"cityname": "银川市",
+		"districtname": "金凤区",
+		"township_name": "上海西路街道"
+	},
+	{
+		"name": "麦德龙(闵行商场店)",
+		"address": "顾戴路80号",
+		"telephone": "021-31229880;021-31229862",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "闵行区",
+		"township_name": "古美街道"
+	},
+	{
+		"name": "7-ELEVEn(金纬路店)",
+		"address": "金纬路339号",
+		"telephone": "022-26491617",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "河北区",
+		"township_name": "望海楼街道"
+	},
+	{
+		"name": "百佳超市",
+		"address": "北街10号",
+		"telephone": "0817-5895158",
+		"provincename": "四川省",
+		"cityname": "南充市",
+		"districtname": "南部县",
+		"township_name": "升钟镇"
+	},
+	{
+		"name": "沃尔玛(中原万达广场店)",
+		"address": "中原中路171号万达广场郑州中原店B1层",
+		"telephone": "0371-55952566",
+		"provincename": "河南省",
+		"cityname": "郑州市",
+		"districtname": "中原区",
+		"township_name": "中原西路街道"
+	},
+	{
+		"name": "沃尔玛(大观店)",
+		"address": "大观商业城北面E1-E2座1-3层",
+		"telephone": "0871-65386208;0871-65386840",
+		"provincename": "云南省",
+		"cityname": "昆明市",
+		"districtname": "五华区",
+		"township_name": "大观街道"
+	},
+	{
+		"name": "华润超市(骏景豪庭店)",
+		"address": "胪岗镇骏景豪庭2栋",
+		"provincename": "广东省",
+		"cityname": "汕头市",
+		"districtname": "潮南区",
+		"township_name": "胪岗镇"
+	},
+	{
+		"name": "大自然(新一中店)",
+		"address": "武陵岩大道69号13栋101号",
+		"telephone": 15779848995,
+		"provincename": "江西省",
+		"cityname": "九江市",
+		"districtname": "武宁县",
+		"township_name": "新宁镇"
+	},
+	{
+		"name": "家乐福(乌龙大道中)",
+		"address": "乌龙大道与信合街交叉口北200米",
+		"provincename": "河南省",
+		"cityname": "信阳市",
+		"districtname": "淮滨县",
+		"township_name": "滨湖街道"
+	},
+	{
+		"name": "北京华联食品超市(荣和山水美地店)",
+		"address": "青秀山管理委员会荣和山水美地会所1层",
+		"telephone": 13667712014,
+		"provincename": "广西壮族自治区",
+		"cityname": "南宁市",
+		"districtname": "青秀区",
+		"township_name": "南湖街道"
+	},
+	{
+		"name": "百佳超市(广东道)",
+		"address": "九龙油麻地广东道831号金华大厦F及G座地下",
+		"telephone": "00852-27502898",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "油尖旺区"
+	},
+	{
+		"name": "惠康(月山分店)",
+		"address": "月山西大道怀宁县月山逸夫中学西侧约110米",
+		"provincename": "安徽省",
+		"cityname": "安庆市",
+		"districtname": "怀宁县",
+		"township_name": "月山镇"
+	},
+	{
+		"name": "华润万家(西康路店)",
+		"address": "西康路29号世家新苑1层",
+		"telephone": "022-83521532;022-83521552",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "和平区",
+		"township_name": "新兴街道"
+	},
+	{
+		"name": "华润万家(百合盛世店)",
+		"address": "五联社区百合山水别苑5栋1层",
+		"telephone": "0755-89452411",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙岗街道"
+	},
+	{
+		"name": "华润万家收货部(龙城店)",
+		"address": "龙河路19号",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "龙岗街道"
+	},
+	{
+		"name": "OK便利店",
+		"address": "湖南西路25号17栋附近",
+		"provincename": "安徽省",
+		"cityname": "马鞍山市",
+		"districtname": "雨山区",
+		"township_name": "雨山街道"
+	},
+	{
+		"name": "7-ELEVEn(迪士尼地铁站店)",
+		"address": "地铁11号线,迪士尼站11-104商铺",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "浦东新区",
+		"township_name": "川沙新镇"
+	},
+	{
+		"name": "麦德龙",
+		"address": "泰山南路二段669号",
+		"telephone": "0838-2258888",
+		"provincename": "四川省",
+		"cityname": "德阳市",
+		"districtname": "旌阳区",
+		"township_name": "工农街道"
+	},
+	{
+		"name": "新生活化妆品(老城街店)",
+		"address": "老城街粮食集团综合楼南栋14号",
+		"provincename": "辽宁省",
+		"cityname": "阜新市",
+		"districtname": "彰武县",
+		"township_name": "彰武镇"
+	},
+	{
+		"name": "百佳超市",
+		"address": "天湖路",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "元朗区"
+	},
+	{
+		"name": "家乐福(昊润快捷酒店店)",
+		"address": "华夏大道(昊润快捷酒店东北侧约150米)",
+		"provincename": "河南省",
+		"cityname": "郑州市",
+		"districtname": "中牟县",
+		"township_name": "祥云办事处"
+	},
+	{
+		"name": "华润万家(渭滨路店)",
+		"address": "徐家湾街道",
+		"telephone": "029-86219001;029-86219060",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "未央区",
+		"township_name": "徐家湾街道"
+	},
+	{
+		"name": "盛景天香生活馆(卜蜂莲花店)",
+		"address": "辽阳西路369号卜蜂莲花生活超市F1",
+		"telephone": "0532-80923432;18610448802",
+		"provincename": "山东省",
+		"cityname": "青岛市",
+		"districtname": "市北区",
+		"township_name": "浮山新区街道"
+	},
+	{
+		"name": "华润万家(刘集路店)",
+		"address": "刘集路(小刘河附近)",
+		"provincename": "江苏省",
+		"cityname": "宿迁市",
+		"districtname": "泗阳县",
+		"township_name": "南刘集乡"
+	},
+	{
+		"name": "百佳超市(碧水苑店)",
+		"address": "滨江东路187号西60米",
+		"provincename": "重庆市",
+		"cityname": "重庆市",
+		"districtname": "丰都县",
+		"township_name": "三合街道"
+	},
+	{
+		"name": "华润万家(龙洞店)",
+		"address": "龙洞街道龙洞商业广场2层",
+		"telephone": "020-38095103;020-38095091",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "龙洞街道"
+	},
+	{
+		"name": "家乐福(金观音店)",
+		"address": "建新西路2号2幢1号",
+		"telephone": "023-88930581",
+		"provincename": "重庆市",
+		"cityname": "重庆市",
+		"districtname": "江北区",
+		"township_name": "观音桥街道"
+	},
+	{
+		"name": "7-ELEVEn(福今路0041店)",
+		"address": "梅花街道东风东路770号(福今路)7",
+		"telephone": "020-87338300;4006308711",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "越秀区",
+		"township_name": "农林街道"
+	},
+	{
+		"name": "沃尔玛商业广场",
+		"address": "文化路8号",
+		"telephone": "0874-7801499;0874-7801498",
+		"provincename": "云南省",
+		"cityname": "曲靖市",
+		"districtname": "宣威市",
+		"township_name": "双龙街道"
+	},
+	{
+		"name": "世纪华联超市(来凤街店)",
+		"address": "来凤街18-5号",
+		"telephone": 13913909131,
+		"provincename": "江苏省",
+		"cityname": "南京市",
+		"districtname": "秦淮区",
+		"township_name": "双塘街道"
+	},
+	{
+		"name": "7-ELEVEn(金宁门市)",
+		"address": "金门县金宁乡环岛北路一段711号",
+		"provincename": "福建省",
+		"cityname": "泉州市",
+		"districtname": "金门县",
+		"township_name": "直辖村级区划"
+	},
+	{
+		"name": "华润万家(清远店)",
+		"address": "连江路78号赢之城购物中心1层",
+		"telephone": "0763-3876118",
+		"provincename": "广东省",
+		"cityname": "清远市",
+		"districtname": "清城区",
+		"township_name": "洲心街道"
+	},
+	{
+		"name": "7-ELEVEn(阳光大厦店)",
+		"address": "香港中路67号",
+		"telephone": "0532-82660711;0532-68873573",
+		"provincename": "山东省",
+		"cityname": "青岛市",
+		"districtname": "市南区",
+		"township_name": "香港中路街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "幸福路胡阳镇北尹完小东南侧约90米",
+		"provincename": "山东省",
+		"cityname": "临沂市",
+		"districtname": "费县",
+		"township_name": "胡阳镇"
+	},
+	{
+		"name": "华联超市",
+		"address": "何村路与福支线交叉路口西南侧(加油站西侧)",
+		"telephone": 18915622949,
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "常熟市",
+		"township_name": "梅李镇"
+	},
+	{
+		"name": "北京华联超市(紫金店)",
+		"address": "苜蓿园大街石门坎165号",
+		"telephone": "025-87757658;025-87757688",
+		"provincename": "江苏省",
+		"cityname": "南京市",
+		"districtname": "秦淮区",
+		"township_name": "月牙湖街道"
+	},
+	{
+		"name": "7-ELEVEn(华工店)",
+		"address": "小谷围大学城外环东路华南理工大学C10架空1号铺",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "小谷围街道"
+	},
+	{
+		"name": "7-ELEVEn(苏州桥东北角店)",
+		"address": "万泉河苏州街76号大洋服装市场",
+		"telephone": "010-84060177;010-82659711",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "海淀区",
+		"township_name": "海淀街道"
+	},
+	{
+		"name": "美邻惠康超市(鑫海店)",
+		"address": "铁明路21-25号",
+		"provincename": "四川省",
+		"cityname": "南充市",
+		"districtname": "顺庆区",
+		"township_name": "和平路街道"
+	},
+	{
+		"name": "家乐福(百家来生活广场店)",
+		"address": "中心大街五里镇人民政府北侧约200米",
+		"provincename": "河南省",
+		"cityname": "信阳市",
+		"districtname": "平桥区",
+		"township_name": "五里镇"
+	},
+	{
+		"name": "百佳超市(X360店)",
+		"address": "官堰村",
+		"provincename": "贵州省",
+		"cityname": "遵义市",
+		"districtname": "湄潭县",
+		"township_name": "桃花江街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "沿沙东路40号如英居对面",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "洛浦街道"
+	},
+	{
+		"name": "7-ELEVEn(夏湾路店)",
+		"address": "夏湾路春泽名园33栋",
+		"telephone": "0756-8122326;4006308711",
+		"provincename": "广东省",
+		"cityname": "珠海市",
+		"districtname": "香洲区",
+		"township_name": "拱北街道"
+	},
+	{
+		"name": "二丫头蔬菜生鲜超市",
+		"address": "南通路温泰市场四区84223、84224号",
+		"telephone": 13961074902,
+		"provincename": "江苏省",
+		"cityname": "泰州市",
+		"districtname": "海陵区",
+		"township_name": "京泰路街道"
+	},
+	{
+		"name": "7-ELEVEn(江南大道)",
+		"address": "江南大道7号4栋1-商铺3/4/8号",
+		"telephone": "023-65862541",
+		"provincename": "重庆市",
+		"cityname": "重庆市",
+		"districtname": "南岸区",
+		"township_name": "南坪街道"
+	},
+	{
+		"name": "苏果超市(花山路)",
+		"address": "湖南东路朝辉东方城二区2633号21栋1-103,1-104",
+		"telephone": 18895566276,
+		"provincename": "安徽省",
+		"cityname": "马鞍山市",
+		"districtname": "花山区",
+		"township_name": "霍里街道"
+	},
+	{
+		"name": "北京华联超市",
+		"address": "建国路66号",
+		"provincename": "青海省",
+		"cityname": "西宁市",
+		"districtname": "城东区",
+		"township_name": "大众街街道"
+	},
+	{
+		"name": "华润万家(石岐店)",
+		"address": "中山五路51号",
+		"telephone": "0760-88863607;0760-88328755",
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "东区街道"
+	},
+	{
+		"name": "星之购便利店",
+		"address": "高铁东站二楼",
+		"provincename": "湖南省",
+		"cityname": "衡阳市",
+		"districtname": "珠晖区",
+		"township_name": "衡州路街道"
+	},
+	{
+		"name": "华润万家(御花苑店)",
+		"address": "外环路299号御花苑2期2-6区6-1号",
+		"telephone": "0769-23010340",
+		"provincename": "广东省",
+		"cityname": "东莞市",
+		"districtname": "东莞市",
+		"township_name": "南城街道"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "葵涌安足街(童子街)",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "沙田区"
+	},
+	{
+		"name": "家乐福",
+		"address": "李渡大道星光实验学校东侧约110米",
+		"provincename": "江西省",
+		"cityname": "南昌市",
+		"districtname": "进贤县",
+		"township_name": "李渡镇"
+	},
+	{
+		"name": "华润万家(余姚五彩城店)",
+		"address": "城东路888号华润五彩城负1楼B113N商铺",
+		"telephone": "0574-22755576;0574-62616700;0574-22755573",
+		"provincename": "浙江省",
+		"cityname": "宁波市",
+		"districtname": "余姚市",
+		"township_name": "凤山街道"
+	},
+	{
+		"name": "7-ELEVEn(利津路店)",
+		"address": "利津路26号",
+		"telephone": "022-84838817;022-83848817",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "东丽区",
+		"township_name": "张贵庄街道"
+	},
+	{
+		"name": "7-ELEVEn(江高步行街店)",
+		"address": "夏花三路109号",
+		"telephone": "020-86604580;4006308711",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "白云区",
+		"township_name": "江高镇"
+	},
+	{
+		"name": "7ELEVNE",
+		"address": "上池北街与上池正街交叉口西北50米",
+		"telephone": 13558633661,
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "青羊区",
+		"township_name": "汪家拐街道"
+	},
+	{
+		"name": "7-ELEVEn(南华中路店)",
+		"address": "南华中路407号101室",
+		"telephone": "020-34343614",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "海幢街道"
+	},
+	{
+		"name": "华润万家便利超市(俊鸿店)",
+		"address": "骏雅北街3号201",
+		"telephone": "020-32359196",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "黄埔区",
+		"township_name": "文冲街道"
+	},
+	{
+		"name": "华联超市(白桥卫生院社区服务站西南)",
+		"address": "白渡桥路与集贸南路交叉路口往西约200米",
+		"provincename": "安徽省",
+		"cityname": "马鞍山市",
+		"districtname": "和县",
+		"township_name": "白桥镇"
+	},
+	{
+		"name": "OK便利店(运城临猗县)",
+		"address": "合欢街合欢小区南大门西第二家",
+		"provincename": "山西省",
+		"cityname": "运城市",
+		"districtname": "临猗县",
+		"township_name": "猗氏镇"
+	},
+	{
+		"name": "7-ELEVEn(南宋御街店)",
+		"address": "中山中路81号",
+		"provincename": "浙江省",
+		"cityname": "杭州市",
+		"districtname": "上城区",
+		"township_name": "清波街道"
+	},
+	{
+		"name": "华润万家(锦江翡翠城店)",
+		"address": "琉璃路566号(近翡翠城)",
+		"telephone": "028-86931806;028-83120630",
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "锦江区",
+		"township_name": "东光街道"
+	},
+	{
+		"name": "7-ELEVEn(兴芳路)",
+		"address": "葵芳葵芳商场地下3号铺",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "葵青区"
+	},
+	{
+		"name": "卜蜂莲花(凯德店)",
+		"address": "茶子山路湘江财富金融中心凯德壹中心B1层",
+		"telephone": "0731-88390858",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "岳麓区",
+		"township_name": "观沙岭街道"
+	},
+	{
+		"name": "华润万家",
+		"address": "罗沙路4081附近",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "罗湖区",
+		"township_name": "莲塘街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "韩村乡苏二庄",
+		"telephone": 18258119667,
+		"provincename": "河南省",
+		"cityname": "濮阳市",
+		"districtname": "清丰县",
+		"township_name": "韩村乡"
+	},
+	{
+		"name": "家乐福水果干果店",
+		"address": "螺阳街道上保菜47幢",
+		"telephone": 13566815057,
+		"provincename": "浙江省",
+		"cityname": "台州市",
+		"districtname": "路桥区",
+		"township_name": "螺洋街道"
+	},
+	{
+		"name": "华润万家(沪瑞线店)",
+		"address": "沪瑞线与黄河路交叉路口往西南约160米",
+		"provincename": "浙江省",
+		"cityname": "嘉兴市",
+		"districtname": "嘉善县",
+		"township_name": "惠民街道"
+	},
+	{
+		"name": "华润万家(盈彩美地店)",
+		"address": "逸翠路盈彩美地附近",
+		"telephone": "0760-85116003",
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "南朗镇"
+	},
+	{
+		"name": "7-ELEVEn(光侨街店)",
+		"address": "兴隆西街2号华·生活馆北区F1层",
+		"telephone": "0755-26754532",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "南山区",
+		"township_name": "沙河街道"
+	},
+	{
+		"name": "OK便利店",
+		"address": "尚干镇后浦村130号",
+		"telephone": 15059480294,
+		"provincename": "福建省",
+		"cityname": "福州市",
+		"districtname": "闽侯县",
+		"township_name": "尚干镇"
+	},
+	{
+		"name": "家乐福(伯乐大街店)",
+		"address": "伯乐大街319号",
+		"provincename": "山东省",
+		"cityname": "菏泽市",
+		"districtname": "成武县",
+		"township_name": "永昌街道"
+	},
+	{
+		"name": "华润万家(上马墩店)",
+		"address": "上马墩路158-6号",
+		"telephone": "18914109084;4008222666",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "梁溪区",
+		"township_name": "上马墩街道"
+	},
+	{
+		"name": "北京华联超市(金安国际店)",
+		"address": "中央大街69号金安国际购物广场B1层",
+		"telephone": "0451-84619762",
+		"provincename": "黑龙江省",
+		"cityname": "哈尔滨市",
+		"districtname": "道里区",
+		"township_name": "尚志街道"
+	},
+	{
+		"name": "华润万家(新华东街店)",
+		"address": "新华东街26号万达广场B1层",
+		"telephone": "0471-3253114;0471-3253148",
+		"provincename": "内蒙古自治区",
+		"cityname": "呼和浩特市",
+		"districtname": "赛罕区",
+		"township_name": "敕勒川路街道"
+	},
+	{
+		"name": "北京华联超市(包头文化路店)",
+		"address": "富强路",
+		"provincename": "内蒙古自治区",
+		"cityname": "包头市",
+		"districtname": "青山区",
+		"township_name": "先锋道街道"
+	},
+	{
+		"name": "刘明水果蔬菜生鲜超市",
+		"address": "新富村施政屯商业街",
+		"telephone": 18445188818,
+		"provincename": "黑龙江省",
+		"cityname": "哈尔滨市",
+		"districtname": "巴彦县",
+		"township_name": "红光乡"
+	},
+	{
+		"name": "7-ELEVEn",
+		"address": "西湾路湾畔大街27、29、31、33号首层自编101单元",
+		"telephone": 4006308711,
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "荔湾区",
+		"township_name": "西村街道"
+	},
+	{
+		"name": "卜蜂莲花",
+		"address": "珠池路59号华福清华熙园10幢",
+		"provincename": "广东省",
+		"cityname": "汕头市",
+		"districtname": "龙湖区",
+		"township_name": "新津街道"
+	},
+	{
+		"name": "沃尔玛(梦时代广场店)",
+		"address": "府前路1号分宜梦时代广场1-2层",
+		"telephone": "0790-5781193;0790-5781165",
+		"provincename": "江西省",
+		"cityname": "新余市",
+		"districtname": "分宜县",
+		"township_name": "分宜镇"
+	},
+	{
+		"name": "家乐福(安场店)",
+		"address": "古镇路安场一小东北侧约240米",
+		"provincename": "贵州省",
+		"cityname": "遵义市",
+		"districtname": "正安县",
+		"township_name": "安场镇"
+	},
+	{
+		"name": "北京华联超市(顺鑫.朗郡店)",
+		"address": "杨镇镇环镇东街顺鑫朗郡18号楼",
+		"telephone": 18611019639,
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "顺义区",
+		"township_name": "杨镇地区办事处"
+	},
+	{
+		"name": "家乐福",
+		"address": "杨村镇加油站斜对面红绿灯南边",
+		"provincename": "安徽省",
+		"cityname": "滁州市",
+		"districtname": "天长市",
+		"township_name": "杨村镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "圪垱街村",
+		"provincename": "河南省",
+		"cityname": "郑州市",
+		"districtname": "中牟县",
+		"township_name": "三官庙镇"
+	},
+	{
+		"name": "7-ELEVEn(万菱广场店)",
+		"address": "人民街道解放南路39号1E001室",
+		"telephone": "020-83521634",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "越秀区",
+		"township_name": "人民街道"
+	},
+	{
+		"name": "家乐福商行",
+		"address": "连天线(元龙综合市场东南侧约50米)",
+		"provincename": "甘肃省",
+		"cityname": "天水市",
+		"districtname": "麦积区",
+		"township_name": "元龙镇"
+	},
+	{
+		"name": "华联超市(嘉唐店)",
+		"address": "嘉唐公路916号",
+		"telephone": "021-39968368",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "嘉定区",
+		"township_name": "徐行镇"
+	},
+	{
+		"name": "7-ELEVEn(安定村西南)",
+		"address": "新界屯门青山公路351号彩华花园地下24号铺A,B,C部份",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "屯门区"
+	},
+	{
+		"name": "华润万家(润园分店)",
+		"address": "龙丰节岭坑红花湖路98号润园别墅小区92栋1层01-02号",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠城区",
+		"township_name": "龙丰街道"
+	},
+	{
+		"name": "华润万家生鲜配送中心",
+		"address": "龙华街道清湖社区清祥路23号",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙华区",
+		"township_name": "龙华街道"
+	},
+	{
+		"name": "乐购(少年路店)",
+		"address": "三道河子镇教育路星光街后门对面",
+		"provincename": "新疆维吾尔自治区",
+		"cityname": "塔城地区",
+		"districtname": "沙湾市",
+		"township_name": "三道河子镇"
+	},
+	{
+		"name": "7-ELEVEn(烟台大学店)",
+		"address": "清泉路32号烟台大学第七餐厅东北角",
+		"telephone": 13583558699,
+		"provincename": "山东省",
+		"cityname": "烟台市",
+		"districtname": "莱山区",
+		"township_name": "黄海路街道"
+	},
+	{
+		"name": "7-ELEVEn(上实中心店)",
+		"address": "香港东路195号8号楼105-B",
+		"telephone": "15684518456;0532-82660711",
+		"provincename": "山东省",
+		"cityname": "青岛市",
+		"districtname": "崂山区",
+		"township_name": "中韩街道"
+	},
+	{
+		"name": "7-ELEVEn(领海店)",
+		"address": "锦业路6号绿地领海B座一层",
+		"telephone": "029-81025226",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "雁塔区",
+		"township_name": "丈八沟街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "二环路(弘桥世界城)",
+		"provincename": "福建省",
+		"cityname": "泉州市",
+		"districtname": "安溪县",
+		"township_name": "城厢镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "G327(连菏线)",
+		"provincename": "山东省",
+		"cityname": "临沂市",
+		"districtname": "费县",
+		"township_name": "探沂镇"
+	},
+	{
+		"name": "沃尔玛(印象城店)",
+		"address": "安宁街与新建北路口印象城",
+		"provincename": "山西省",
+		"cityname": "晋中市",
+		"districtname": "榆次区",
+		"township_name": "安宁街道"
+	},
+	{
+		"name": "7-ELEVEn(黄兴广场店)",
+		"address": "黄兴南路步行商业街D区1172号",
+		"telephone": "0731-85513189",
+		"provincename": "湖南省",
+		"cityname": "长沙市",
+		"districtname": "天心区",
+		"township_name": "坡子街街道"
+	},
+	{
+		"name": "卜蜂莲花(凤城八路店)",
+		"address": "凤城八路和明光路十字长和国际F座",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "未央区",
+		"township_name": "张家堡街道"
+	},
+	{
+		"name": "家福乐超市",
+		"address": "兴安南路42号",
+		"provincename": "内蒙古自治区",
+		"cityname": "呼和浩特市",
+		"districtname": "赛罕区",
+		"township_name": "大学东路街道"
+	},
+	{
+		"name": "7-ELEVEn(石岩创维店)",
+		"address": "石岩街道塘头社区塘头1号路8号创维新谷1号楼1层03",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "宝安区",
+		"township_name": "石岩街道"
+	},
+	{
+		"name": "沃尔玛(玺悦城生活广场店)",
+		"address": "澄湖东路1111号玺悦城一楼悦购F1",
+		"telephone": "0791-86121755;0791-86121756",
+		"provincename": "江西省",
+		"cityname": "南昌市",
+		"districtname": "南昌县",
+		"township_name": "莲塘镇"
+	},
+	{
+		"name": "华润万家(印象城店)",
+		"address": "未央路与龙首北路交汇口东北角印象城B1层",
+		"telephone": "029-86241500;029-86241582",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "未央区",
+		"township_name": "张家堡街道"
+	},
+	{
+		"name": "7-ELEVEn(雍江悦庭店)",
+		"address": "瑞天路61号雍江悦庭",
+		"telephone": "023-65862541",
+		"provincename": "重庆市",
+		"cityname": "重庆市",
+		"districtname": "渝中区",
+		"township_name": "化龙桥街道"
+	},
+	{
+		"name": "华联超市(共富路店)",
+		"address": "顾村镇共富一村181号",
+		"telephone": "021-33701859",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "宝山区",
+		"township_name": "顾村镇"
+	},
+	{
+		"name": "7-ELEVEn(龙蟠街)",
+		"address": "龙蟠街3号荷里活广场G103",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "黄大仙区"
+	},
+	{
+		"name": "7-ELEVEn(美景街)",
+		"address": "美景街87-89号23-24号",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "九龙城区"
+	},
+	{
+		"name": "606惠康超市",
+		"address": "G347眉山小学东北侧约120米",
+		"provincename": "安徽省",
+		"cityname": "安庆市",
+		"districtname": "宜秀区",
+		"township_name": "大桥街道"
+	},
+	{
+		"name": "百佳超市(天籁雅筑店)",
+		"address": "五台段南50米",
+		"telephone": 13308888851,
+		"provincename": "云南省",
+		"cityname": "丽江市",
+		"districtname": "玉龙纳西族自治县",
+		"township_name": "黄山镇"
+	},
+	{
+		"name": "7-ELEVEn(大东裕国际中心分店)",
+		"address": "东苑南路101号大东裕贸联大厦",
+		"telephone": "0760-89878756;4006308711",
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "东区街道"
+	},
+	{
+		"name": "麦德龙(弋江商场店)",
+		"address": "利民东路70号",
+		"telephone": "0553-3026888;0553-5758888",
+		"provincename": "安徽省",
+		"cityname": "芜湖市",
+		"districtname": "弋江区",
+		"township_name": "马塘街道"
+	},
+	{
+		"name": "温情灯饰壁纸窗帘",
+		"address": "235省道北50米",
+		"provincename": "河北省",
+		"cityname": "保定市",
+		"districtname": "安新县",
+		"township_name": "安州镇"
+	},
+	{
+		"name": "华润万家(周庄全功路店)",
+		"address": "全功路254号",
+		"telephone": 4008222666,
+		"provincename": "江苏省",
+		"cityname": "苏州市",
+		"districtname": "昆山市",
+		"township_name": "周庄镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "鳌阳镇环城路天然居旁边超市",
+		"telephone": "0593-5347788",
+		"provincename": "福建省",
+		"cityname": "宁德市",
+		"districtname": "寿宁县",
+		"township_name": "鳌阳镇"
+	},
+	{
+		"name": "家乐福(长宁北街店)",
+		"address": "长宁南街1948号",
+		"provincename": "吉林省",
+		"cityname": "松原市",
+		"districtname": "宁江区",
+		"township_name": "文化街道"
+	},
+	{
+		"name": "7-ELEVEn(中信店)",
+		"address": "文昌一路华贸大厦3号楼",
+		"telephone": "0752-7215223",
+		"provincename": "广东省",
+		"cityname": "惠州市",
+		"districtname": "惠城区",
+		"township_name": "江北街道"
+	},
+	{
+		"name": "7-ELEVEn(易发广场店)",
+		"address": "光明北路32号",
+		"telephone": "020-84700609",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "市桥街道"
+	},
+	{
+		"name": "老谢水果蔬菜超市",
+		"address": "崇福镇青阳东路578号",
+		"provincename": "浙江省",
+		"cityname": "嘉兴市",
+		"districtname": "桐乡市",
+		"township_name": "崇福镇"
+	},
+	{
+		"name": "沃尔玛(云山路店)",
+		"address": "西郊明波土堆村50号云善时尚广场2-3层",
+		"telephone": "0871-68233400;0871-68233703;0871-68233428",
+		"provincename": "云南省",
+		"cityname": "昆明市",
+		"districtname": "西山区",
+		"township_name": "棕树营街道"
+	},
+	{
+		"name": "上海华润五彩城服务中心",
+		"address": "南翔镇宝翔路801号华润五彩城1楼",
+		"telephone": "021-69956030;021-61286519",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "嘉定区",
+		"township_name": "南翔镇"
+	},
+	{
+		"name": "乐购",
+		"address": "707县道与706县道交叉口旁",
+		"provincename": "辽宁省",
+		"cityname": "锦州市",
+		"districtname": "北镇市",
+		"township_name": "北镇街道"
+	},
+	{
+		"name": "7-ELEVEn(东三环中路西侧店)",
+		"address": "东三环中路55号楼1层01室",
+		"telephone": "010-67720796",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "双井街道"
+	},
+	{
+		"name": "家乐福(吾悦广场店)",
+		"address": "淀山湖大道218号吾悦广场B2层",
+		"telephone": "021-59768571;17301828395;021-59808001",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "青浦区",
+		"township_name": "盈浦街道"
+	},
+	{
+		"name": "7-ELEVEn(翠湖畔店)",
+		"address": "陈村镇碧桂花城翠湖畔一区新街18栋60号商铺",
+		"telephone": "0757-23819217",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "顺德区",
+		"township_name": "陈村镇"
+	},
+	{
+		"name": "7-ELEVEn(江燕店)",
+		"address": "江燕路182-2号",
+		"telephone": "020-34360622",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "海珠区",
+		"township_name": "南石头街道"
+	},
+	{
+		"name": "宝堰华联超市",
+		"address": "镇中路与镇阳路交叉口西南50米",
+		"telephone": "0511-84482423",
+		"provincename": "江苏省",
+		"cityname": "镇江市",
+		"districtname": "丹徒区",
+		"township_name": "宝堰镇"
+	},
+	{
+		"name": "文学超市",
+		"address": "九龙街道办事处大西庄东村93号",
+		"telephone": 13969625940,
+		"provincename": "山东省",
+		"cityname": "青岛市",
+		"districtname": "胶州市",
+		"township_name": "九龙街道"
+	},
+	{
+		"name": "7-ELEVEn(福泉店)",
+		"address": "福泉北路511-11号",
+		"telephone": "021-62163515",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "长宁区",
+		"township_name": "新泾镇"
+	},
+	{
+		"name": "家乐福",
+		"address": "同太·商务宾馆(新佳路西)",
+		"telephone": "0534-2177511;13723916092",
+		"provincename": "山东省",
+		"cityname": "德州市",
+		"districtname": "武城县",
+		"township_name": "鲁权屯镇"
+	},
+	{
+		"name": "7-ELEVEn(隽悦豪庭店)",
+		"address": "三东大道1号之二十八、二十九商铺",
+		"telephone": "020-37733592",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "花都区",
+		"township_name": "花城街道"
+	},
+	{
+		"name": "乐购(无锡新光店)",
+		"address": "新光路555号新之城全生活广场2层",
+		"telephone": "0510-66615211",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "新吴区",
+		"township_name": "江溪街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "屯里村",
+		"provincename": "山东省",
+		"cityname": "济宁市",
+		"districtname": "曲阜市",
+		"township_name": "尼山镇"
+	},
+	{
+		"name": "家乐福(华茂店)",
+		"address": "双岗路新地城2-3层",
+		"telephone": "0556-5290766;0556-5290700",
+		"provincename": "安徽省",
+		"cityname": "安庆市",
+		"districtname": "大观区",
+		"township_name": "菱湖街道"
+	},
+	{
+		"name": "7ELEVEn金桐东路店",
+		"address": "关东店8号2幢一层2-2内101",
+		"telephone": 13810093288,
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "朝阳区",
+		"township_name": "呼家楼街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "古县渡镇新屋场村路口001号",
+		"telephone": 17379307939,
+		"provincename": "江西省",
+		"cityname": "上饶市",
+		"districtname": "鄱阳县",
+		"township_name": "古县渡镇"
+	},
+	{
+		"name": "华润万家(汇东国际店)",
+		"address": "新塘镇汇东南路1号之三十九、四十、四十一、四十二商铺",
+		"telephone": "020-82453564",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "增城区",
+		"township_name": "新塘镇"
+	},
+	{
+		"name": "惠康",
+		"address": "温泉镇沿河西路6号",
+		"telephone": "0713-7067188;0713-3616868",
+		"provincename": "湖北省",
+		"cityname": "黄冈市",
+		"districtname": "英山县",
+		"township_name": "温泉镇"
+	},
+	{
+		"name": "惠康(威尼斯店)",
+		"address": "上水威尼斯花园地下",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "北区"
+	},
+	{
+		"name": "华联超市(桐城市青草林业站南)",
+		"address": "006县道济生大药房(桐城市青草林业站南)附近",
+		"telephone": 13955653948,
+		"provincename": "安徽省",
+		"cityname": "安庆市",
+		"districtname": "桐城市",
+		"township_name": "青草镇"
+	},
+	{
+		"name": "华润万家(河北路店)",
+		"address": "塘沽街道河北路海门冷冻厂院内塘沽华润万家",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "滨海新区",
+		"township_name": "向阳街道"
+	},
+	{
+		"name": "7-ELEVEn(屯顺街)",
+		"address": "屯门市广场一期6座,3屯隆街,屯门",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "屯门区"
+	},
+	{
+		"name": "7-ELEVEn(国美北大街店)",
+		"address": "北大街129号一层101号(国美电器旁)",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "新城区",
+		"township_name": "西一路街道"
+	},
+	{
+		"name": "7-ELEVEn(广百广场店)",
+		"address": "里水镇洲村里广路2号金沙洲广百广场一层自编号1-20商铺",
+		"telephone": "0757-83995432",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "里水镇"
+	},
+	{
+		"name": "华联超市&寄存处(北京站)",
+		"address": "北京站站西街1号",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "东城区",
+		"township_name": "建国门街道"
+	},
+	{
+		"name": "Redcarrot红萝卜/e仓-黄埔分店",
+		"address": "Redcarrot红萝卜/e仓-黄埔分店,九龙红磡黄埔花园一期奇妙坊地下1号铺,Hung Hom,香港",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "九龙城区"
+	},
+	{
+		"name": "乐购",
+		"address": "孝南区广场街办事处槐荫大道天仙路福星城二期",
+		"provincename": "湖北省",
+		"cityname": "孝感市",
+		"districtname": "孝南区",
+		"township_name": "孝南区广场街办事处"
+	},
+	{
+		"name": "BHG(欧陆时尚购物中心)",
+		"address": "天竺镇裕祥路99号欧陆广场B-1号(新国展对面)",
+		"telephone": "010-80466377;010-80461553",
+		"provincename": "北京市",
+		"cityname": "北京市",
+		"districtname": "顺义区",
+		"township_name": "空港街道"
+	},
+	{
+		"name": "7-ELEVEn(万科世贸广场店)",
+		"address": "五大道街南京路129号万科世贸广场B座1层101",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "和平区",
+		"township_name": "体育馆街道"
+	},
+	{
+		"name": "家乐福(五洲国际商贸城店)",
+		"address": "五洲国际商贸城1区3栋3-110西南方向150米",
+		"provincename": "江苏省",
+		"cityname": "盐城市",
+		"districtname": "建湖县",
+		"township_name": "近湖镇"
+	},
+	{
+		"name": "7-ELEVEn(荔枝湾店)",
+		"address": "龙津西路145号",
+		"telephone": "020-81068960",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "荔湾区",
+		"township_name": "昌华街道"
+	},
+	{
+		"name": "7-ELEVEn(浦电店)",
+		"address": "浦电路360号投资大厦1层(近4号线浦电路站)",
+		"telephone": "021-50255937",
+		"provincename": "上海市",
+		"cityname": "上海市",
+		"districtname": "浦东新区",
+		"township_name": "潍坊新村街道"
+	},
+	{
+		"name": "华润万家(民乐店)",
+		"address": "CocoCity",
+		"telephone": "0755-23006927;0755-25685002",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙华区",
+		"township_name": "民治街道"
+	},
+	{
+		"name": "7-ELEVEn(香雪站店)",
+		"address": "开创大道锐丰中心L8-101号",
+		"telephone": "020-31701909",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "黄埔区",
+		"township_name": "萝岗街道"
+	},
+	{
+		"name": "华润万家标超南区(江高店)",
+		"address": "江高镇江同路149号丰兴购物广场1层",
+		"telephone": 4008222808,
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "白云区",
+		"township_name": "江高镇"
+	},
+	{
+		"name": "7-ELEVEn(宗泰未来城)",
+		"address": "西乡街道宝源路2007号宗泰未来城A栋103A室",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "宝安区",
+		"township_name": "西乡街道"
+	},
+	{
+		"name": "家乐福",
+		"address": "东环路(望华东苑南侧)",
+		"telephone": 13170282460,
+		"provincename": "安徽省",
+		"cityname": "安庆市",
+		"districtname": "望江县",
+		"township_name": "华阳镇"
+	},
+	{
+		"name": "7-ELEVEn(丽名居店)",
+		"address": "金地一路20号金海丽名居101号",
+		"telephone": "0755-83857094;0755-82312237",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "福田区",
+		"township_name": "沙头街道"
+	},
+	{
+		"name": "华润万家(南京路店)",
+		"address": "大屯镇上海路与南京路交叉口南150米路西",
+		"telephone": "0516-89946688",
+		"provincename": "江苏省",
+		"cityname": "徐州市",
+		"districtname": "沛县",
+		"township_name": "大屯镇"
+	},
+	{
+		"name": "7-ELEVEn(天安科技创新大厦店)",
+		"address": "迎宾路696号天安科技创新大厦附近",
+		"telephone": "020-23889565",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "番禺区",
+		"township_name": "东环街道"
+	},
+	{
+		"name": "7-ELEVEn(智芳街)",
+		"address": "智芳街与盛芳街交叉口南50米",
+		"telephone": "00852-24873923",
+		"provincename": "香港特别行政区",
+		"cityname": "香港特别行政区",
+		"districtname": "葵青区"
+	},
+	{
+		"name": "百佳超市",
+		"address": "塘下镇罗凤镇罗凤西路157号",
+		"telephone": "0577-65337984",
+		"provincename": "浙江省",
+		"cityname": "温州市",
+		"districtname": "瑞安市",
+		"township_name": "塘下镇"
+	},
+	{
+		"name": "百佳超市(永安供销农家店)",
+		"address": "山深线永安市小陶镇人民政府西南侧约90米",
+		"telephone": "0598-3706555",
+		"provincename": "福建省",
+		"cityname": "三明市",
+		"districtname": "永安市",
+		"township_name": "小陶镇"
+	},
+	{
+		"name": "7-ELEVEn(越秀金融大厦店)",
+		"address": "珠江新城珠江东路28号越秀金融大厦",
+		"provincename": "广东省",
+		"cityname": "广州市",
+		"districtname": "天河区",
+		"township_name": "冼村街道"
+	},
+	{
+		"name": "陕西汉中市古",
+		"address": "成都市郫都区海霸王西部食品物流园",
+		"provincename": "四川省",
+		"cityname": "成都市",
+		"districtname": "郫都区",
+		"township_name": "安靖镇"
+	},
+	{
+		"name": "华润万家(华夏店)",
+		"address": "华夏南路11号丰汇广场1-3楼(近学前东路)",
+		"telephone": "0510-82956004;0510-82956063",
+		"provincename": "江苏省",
+		"cityname": "无锡市",
+		"districtname": "锡山区",
+		"township_name": "东亭街道"
+	},
+	{
+		"name": "7-ELEVEn(马港门市)",
+		"address": "连江县南竿乡中山路58号",
+		"provincename": "福建省",
+		"cityname": "福州市",
+		"districtname": "连江县"
+	},
+	{
+		"name": "7-ELEVEn(李朗国际珠宝园店)",
+		"address": "布澜路31号(聚星汇A01号店)",
+		"telephone": "0755-85214295",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "南湾街道"
+	},
+	{
+		"name": "华润万家标超南区(珑悦花园分店)",
+		"address": "季华七路金地珑悦花园2栋114-121号商铺",
+		"telephone": 4008222666,
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "桂城街道"
+	},
+	{
+		"name": "家乐福(田市客运车站店)",
+		"address": "庙南路(田市客运车站)",
+		"provincename": "陕西省",
+		"cityname": "西安市",
+		"districtname": "临潼区",
+		"township_name": "相桥街道"
+	},
+	{
+		"name": "华润万家(鞍山汇园大道店)",
+		"address": "汇园大道585号",
+		"telephone": "0412-5833299",
+		"provincename": "辽宁省",
+		"cityname": "鞍山市",
+		"districtname": "铁东区",
+		"township_name": "新兴街道"
+	},
+	{
+		"name": "7-ELEVEn(雪岗北路)",
+		"address": "雪岗北路20号附近",
+		"telephone": "0755-28435574",
+		"provincename": "广东省",
+		"cityname": "深圳市",
+		"districtname": "龙岗区",
+		"township_name": "坂田街道"
+	},
+	{
+		"name": "华润万家标超华北(红桥区宏泰公寓分店)",
+		"address": "宏泰公寓1号楼-103",
+		"provincename": "天津市",
+		"cityname": "天津市",
+		"districtname": "红桥区",
+		"township_name": "咸阳北路街道"
+	},
+	{
+		"name": "华润万家(宝海店)",
+		"address": "双桥路201号(银海尚御小区地下室-1层F1-1-SC01号)",
+		"telephone": "0871-67155085",
+		"provincename": "云南省",
+		"cityname": "昆明市",
+		"districtname": "官渡区",
+		"township_name": "关上街道"
+	},
+	{
+		"name": "卜蜂莲花(泰山广场店)",
+		"address": "东岳大街泰山广场南侧",
+		"provincename": "山东省",
+		"cityname": "泰安市",
+		"districtname": "泰山区",
+		"township_name": "泰前街道"
+	},
+	{
+		"name": "7-ELEVEn(龙瑞店)",
+		"address": "龙瑞朗心街1号东区首层001-1-2-3卡商铺(铁城小学对面)",
+		"telephone": "0760-89871952",
+		"provincename": "广东省",
+		"cityname": "中山市",
+		"districtname": "中山市",
+		"township_name": "沙溪镇"
+	},
+	{
+		"name": "惠康",
+		"address": "大洋街道开石村4-47号",
+		"telephone": 13136486851,
+		"provincename": "浙江省",
+		"cityname": "台州市",
+		"districtname": "临海市",
+		"township_name": "大洋街道"
+	},
+	{
+		"name": "7-ELEVEn(南海碧桂店)",
+		"address": "大沥镇南海碧桂园会所29号",
+		"telephone": "0757-81188820",
+		"provincename": "广东省",
+		"cityname": "佛山市",
+		"districtname": "南海区",
+		"township_name": "大沥镇"
+	},
+	{
+		"name": "惠康平价超市",
+		"address": "农林二路18号中晟农林居商住楼1层",
+		"provincename": "广东省",
+		"cityname": "湛江市",
+		"districtname": "赤坎区",
+		"township_name": "寸金街道"
+	},
+	{
+		"name": "乐天玛特(于洪店)",
+		"address": "黄河北大街96号国美电器",
+		"telephone": "024-31076006",
+		"provincename": "辽宁省",
+		"cityname": "沈阳市",
+		"districtname": "于洪区",
+		"township_name": "陵西街道"
+	},
+	{
+		"name": "张天福有机茶",
+		"address": "太公路与翟阳路交叉路口往东约150米(振宇翡翠城)",
+		"provincename": "河南省",
+		"cityname": "新乡市",
+		"districtname": "卫辉市",
+		"township_name": "汲水镇"
+	}
+]
