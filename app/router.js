@@ -23,4 +23,6 @@ module.exports = app => {
   router.get('/read/excel', controller.excelFile.readFile);
   // 爬虫
   router.get('/crawling', controller.crawling.index);
+  // 生成目标json
+  router.get('/json', controller.dataDeal.index);
 };

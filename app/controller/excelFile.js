@@ -15,7 +15,7 @@ class ExcelFileController extends Controller {
     // xlsx.readFile(uploadDir)
     console.info('开始解读文件', uploadDir);
     // const filePath = path.resolve(uploadDir, '健康餐声量趋势_2.xlsx');
-    const filePath = path.resolve(uploadDir, '照烧_声量预测.xlsx');
+    const filePath = path.resolve(uploadDir, '黄金橄榄炸鸡_声量趋势_new.xlsx');
     const workSheetsFromFile = xlsx.parse(fs.readFileSync(filePath));
 
     // 解读第一sheet
