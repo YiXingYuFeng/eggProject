@@ -21,7 +21,7 @@ module.exports = app => {
   router.get('/excel', controller.excelFile.index);
   // 解析excel
   router.get('/read/excel', controller.excelFile.readFile);
-  router.get('/read/excel1', controller.excelFile.createJson);
+  router.get('/read/excel1', controller.excelFile.cityJson);
   // 爬虫
   router.get('/crawling', controller.crawling.index);
   // 生成目标json
